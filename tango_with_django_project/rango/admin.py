@@ -1,3 +1,10 @@
 from django.contrib import admin
+from .models import Product
 
-# Register your models here.
+
+class PageAdmin(admin.ModelAdmin):
+    list_display = ('name', 'price', 'color', 'style', 'brand')
+
+
+admin.site.register(Product, PageAdmin)
+
