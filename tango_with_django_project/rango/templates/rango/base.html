@@ -38,11 +38,11 @@
 					<a href="#"><span class="icon-youtube"></span></a>
 					<a href="#"><span class="icon-tumblr"></span></a>
 				</div>
-				<a href="https://www.olx.ua/"> <span class="icon-home"></span> Home</a>
-				<a href="#"><span class="icon-user"></span> My Account</a>
-				<a href="register.html"><span class="icon-edit"></span> Free Register </a>
-				<a href="contact.html"><span class="icon-envelope"></span> Contact us</a>
-				<a href="cart.html"><span class="icon-shopping-cart"></span> 2 Item(s) - <span class="badge badge-warning"> $448.42</span></a>
+				<a href="/rango/index"> <span class="icon-home"></span> Home</a>
+				<a href="/rango/myaccount"><span class="icon-user"></span> My Account</a>
+				<a href="/rango/register"><span class="icon-edit"></span> Free Register </a>
+				<a href="#"><span class="icon-envelope"></span> Contact us</a>
+				<a href="#"><span class="icon-shopping-cart"></span> 2 Item(s) - <span class="badge badge-warning"> $448.42</span></a>
 			</div>
 		</div>
 	</div>
@@ -96,34 +96,48 @@ Navigation Bar Section
 			  <li class=""><a href="/rango/index">Home	</a></li>
 			  <li class=""><a href="/rango/list_view">List View</a></li>
 			  <li class=""><a href="/rango/grid_view">Grid View</a></li>
-			  <li class=""><a href="three-col.html">Three Column</a></li>
-			  <li class=""><a href="four-col.html">Four Column</a></li>
+			  <li class=""><a href="#">Three Column</a></li>
+			  <li class=""><a href="#">Four Column</a></li>
 			  <li class="active"><a href="/rango/general">General Content</a></li>
 			</ul>
 			<form action="#" class="navbar-search pull-left">
 			  <input type="text" placeholder="Search" class="search-query span2">
 			</form>
-			<ul class="nav pull-right">
-			<li class="dropdown">
-				<a data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-lock"></span> Login <b class="caret"></b></a>
-				<div class="dropdown-menu">
-				<form class="form-horizontal loginFrm">
-				  <div class="control-group">
-					<input type="text" class="span2" id="inputEmail" placeholder="Email">
-				  </div>
-				  <div class="control-group">
-					<input type="password" class="span2" id="inputPassword" placeholder="Password">
-				  </div>
-				  <div class="control-group">
-					<label class="checkbox">
-					<input type="checkbox"> Remember me
-					</label>
-					<button type="submit" class="shopBtn btn-block">Sign in</button>
-				  </div>
-				</form>
-				</div>
-			</li>
+			   <!--login form-->
+              {% if user.is_authenticated %}
+              <ul class="nav pull-right">
+                <li class="dropdown">
+			  <a href="/rango/user_logout"><span class="icon-lock"></span> Logout
+                    <b class="caret"></b>
+              </a>
+                </li>
+              </ul>
+              {% else %}
+              <ul class="nav pull-right">
+                <li class="dropdown">
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-lock"></span> Login <b class="caret"></b></a>
+                    <div class="dropdown-menu">
+
+                        <form class="form-horizontal loginFrm" method="post" action="/rango/user_login/" enctype="multipart/form-data">
+                            {% csrf_token %}
+                              <div class="control-group">
+                                <input type="text" class="span2" id="inputEmail" name="username" placeholder="Username">
+                              </div>
+                              <div class="control-group">
+                                <input type="password" class="span2" id="inputPassword" name="password" placeholder="Password">
+                              </div>
+                              <div class="control-group">
+                                <label class="checkbox">
+                                <input type="checkbox"> Remember me
+                                </label>
+                                <button type="submit" class="shopBtn btn-block">Sign in</button>
+                              </div>
+                        </form>
+                    </div>
+                </li>
 			</ul>
+              {% endif %}
+
 		  </div>
 		</div>
 	  </div>
@@ -246,7 +260,7 @@ Footer
 <a href="#">SITEMAP</a><br>
 <a href="#">LEGAL NOTICE</a><br>
 <a href="#">TERMS AND CONDITIONS</a><br>
-<a href="#">ABOUT US</a><br>
+<a href="/rango/about">ABOUT US</a><br>
  </div>
 <div class="span2">
 <h5>Our Offer</h5>

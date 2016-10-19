@@ -1,0 +1,25 @@
+{% extends 'rango/base.html' %}
+{% block body %}
+
+<h1>Add a Product</h1>
+	{% if createdProduct %}
+	<strong>New product has been created successfully !</strong>
+	{% else %}
+	<form id="category_form" method="post" action="/rango/add_product/">
+		{% csrf_token %}
+		{% for hidden in form.hidden_fields %}
+		{{ hidden }}
+		{% endfor %}
+		<br>
+		<!--{% for field in form.visible_fields %}-->
+			<!--{{ field.errors }}-->
+			<!--{{ field.help_text }}-->
+			<!--{{ field }}-->
+			<!--<br>-->
+		<!--{% endfor %}-->
+		{{ form.as_p }}
+		<input type="submit" name="submit" value="Create Product" />
+	</form>
+	{% endif %}
+
+{% endblock %}
