@@ -7,7 +7,7 @@ class UserProfile(models.Model):
     user_logo = models.ImageField(upload_to='user_images', blank=True)
 
     def __str__(self):
-        return self.name*5
+        return self.user_logo
 
 
 class Product(models.Model):
@@ -19,7 +19,8 @@ class Product(models.Model):
     usage = models.CharField(max_length=20)
     sport = models.IntegerField()
     brand = models.CharField(max_length=20)
-    product_logo = models.ImageField(upload_to='product_images', blank=True)
+    product_logo = models.FileField(upload_to='product_images', blank=True)
+    # product_logo = models.ImageField(upload_to='product_images', blank=True)
 
     def __str__(self):
-        return self.name + ' ' + str(self.price)
+        return self.name + ' ' + str(self.price) + ' ' + str(self.product_logo)

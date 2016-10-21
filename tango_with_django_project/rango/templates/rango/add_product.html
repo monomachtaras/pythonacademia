@@ -5,7 +5,7 @@
 	{% if createdProduct %}
 	<strong>New product has been created successfully !</strong>
 	{% else %}
-	<form id="category_form" method="post" action="/rango/add_product/">
+	<form id="category_form" method="post" action="/rango/add_product/" enctype="multipart/form-data">
 		{% csrf_token %}
 		{% for hidden in form.hidden_fields %}
 		{{ hidden }}

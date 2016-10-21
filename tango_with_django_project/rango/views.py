@@ -18,25 +18,22 @@ def general(request):
 
 def myaccount(request):
     context = RequestContext(request)
-    context_dict = {'boldmessage': 'I am a bald message'}
-    # return render_to_response('rango/myaccount.html', context_dict, context)
+    context_dict = {}
+    print(dir(request.user))
     return render(request, 'rango/myaccount.html', context_dict, context)
 
 
 def list_view(request):
     context = RequestContext(request)
-    context_dict = {}
-    l = list(Product.objects.all())
-    l.sort(key=lambda x: x.price, reverse=True)
-    context_dict['products_all'] = l
-    # return render_to_response('rango/list-view.html', context_dict, context)
+    context_dict = dict()
+    context_dict['products_all'] = Product.objects.all().order_by('price', 'name')
     return render(request, 'rango/list-view.html', context_dict, context)
 
 
 def grid_view(request):
     context = RequestContext(request)
-    l = list(Product.objects.all())
-    context_dict = {}
+    l = Product.objects.all().order_by('price')
+    context_dict = dict()
     l2 = []
     k1 = 0
     k2 = 1
@@ -48,7 +45,7 @@ def grid_view(request):
         if k2 % 3 == 0:
             k1 += 1
         k2 += 1
-    context_dict['products_all'] = l2
+    context_dict['products_all'] = l2 # l2 is list of lists  [ [], [], [] ]
     # return render_to_response('rango/grid-view.html', context_dict, context)
     return render(request, 'rango/grid-view.html', context_dict, context)
 
@@ -71,6 +68,8 @@ def product_details(request, product_id):
 @login_required
 def about(request):
     string = "rango this is about page <br><a href='/rango/user_logout'>Logout press hehe</a>  "
+    use = UserProfile()
+    print(dir(use))
     return HttpResponse(string)
 
 @login_required
@@ -80,6 +79,12 @@ def add_product(request):
     if request.method == 'POST':
         form = ProductForm(request.POST, request.FILES)
         if form.is_valid():
+            if 'product_logo' in request.FILES:
+                print('is is')
+                form.product_logo = request.FILES['product_logo']
+                print(form)
+            else:
+                print('not in')
             form.save()
             createdProduct = True
             return render_to_response('rango/add_product.html', {'form': form, 'createdProduct': createdProduct},
@@ -126,10 +131,10 @@ def user_login(request):
         if user is not None:
             if user.is_active:
                 login(request, user)
+                userprof = UserProfile.objects.get(user=user)
                 # return render_to_response('rango/myaccount.html', context)
-                print(user)
-                print(user.is_authenticated)
-                return HttpResponseRedirect('/rango/myaccount/')
+                # return HttpResponseRedirect('/rango/myaccount/')
+                return render(request, 'rango/myaccount.html', {'userprof': userprof}, context)
                 # return render(request, 'rango/register.html', context)
             else:
                 return render(request, 'rango/register.html', context)
