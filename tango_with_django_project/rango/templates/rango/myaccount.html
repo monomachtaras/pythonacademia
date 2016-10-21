@@ -2,10 +2,8 @@
 {% block body %}
 
 {% if user.is_authenticated %}
-<h1>Rango says... hello {{ userprof.user.username }}!</h1>
-<!--{{ userprof.user_logo.url }}-->
-
-<img src={{ userprof.user_logo.url }} alt="taras">
+<h1>Rango says... hello {{ user.username }}!</h1>
+<img height="50" width="70" src={{ user.userprofile.user_logo.url }} alt="taras">
 {% else %}
 <h1>Rango says... hello world!</h1>
 {% endif %}

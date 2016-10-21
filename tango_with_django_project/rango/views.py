@@ -18,15 +18,21 @@ def general(request):
 
 def myaccount(request):
     context = RequestContext(request)
-    context_dict = {}
-    print(dir(request.user))
+    context_dict = dict()
     return render(request, 'rango/myaccount.html', context_dict, context)
+
+
+def show_category(request, category_name):
+    context = RequestContext(request)
+    context_dict = dict()
+    context_dict['products_all'] = Product.objects.filter(category=category_name)
+    return render(request, 'rango/list-view.html', context_dict, context)
 
 
 def list_view(request):
     context = RequestContext(request)
     context_dict = dict()
-    context_dict['products_all'] = Product.objects.all().order_by('price', 'name')
+    context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
     return render(request, 'rango/list-view.html', context_dict, context)
 
 
@@ -58,7 +64,6 @@ def index(request):
 
 
 def product_details(request, product_id):
-    print('nice')
     context = RequestContext(request)
     product = Product.objects.get(id=product_id)
     context_dict = {'product': product}
@@ -72,7 +77,7 @@ def about(request):
     print(dir(use))
     return HttpResponse(string)
 
-@login_required
+
 def add_product(request):
     context = RequestContext(request)
     createdProduct = False
@@ -124,6 +129,7 @@ def register(request):
 
 def user_login(request):
     context = RequestContext(request)
+    context_dict = dict()
     if request.method == 'POST':
         username = request.POST['username']
         password = request.POST['password']
@@ -131,11 +137,7 @@ def user_login(request):
         if user is not None:
             if user.is_active:
                 login(request, user)
-                userprof = UserProfile.objects.get(user=user)
-                # return render_to_response('rango/myaccount.html', context)
-                # return HttpResponseRedirect('/rango/myaccount/')
-                return render(request, 'rango/myaccount.html', {'userprof': userprof}, context)
-                # return render(request, 'rango/register.html', context)
+                return render(request, 'rango/myaccount.html', context_dict, context)
             else:
                 return render(request, 'rango/register.html', context)
         else:
@@ -149,3 +151,4 @@ def user_login(request):
 def user_logout(request):
     logout(request)
     return HttpResponseRedirect('/rango/index')
+

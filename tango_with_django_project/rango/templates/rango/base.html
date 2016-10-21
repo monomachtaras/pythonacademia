@@ -97,7 +97,11 @@ Navigation Bar Section
 			  <li class=""><a href="/rango/list_view">List View</a></li>
 			  <li class=""><a href="/rango/grid_view">Grid View</a></li>
 			  <li class=""><a href="#">Three Column</a></li>
-			  <li class=""><a href="#">Four Column</a></li>
+				{% if user.is_authenticated %}
+				<li class=""><a href="/rango/add_product">Add Product</a></li>
+				{% else %}
+			    <li class=""><a href="#">Four Column</a></li>
+				{% endif %}
 			  <li class="active"><a href="/rango/general">General Content</a></li>
 			</ul>
 			<form action="#" class="navbar-search pull-left">
@@ -149,15 +153,15 @@ Body Section
 		<div id="sidebar" class="span3">
 			<div class="well well-small">
 				<ul class="nav nav-list">
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Fashion</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Watches</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Fine Jewelry</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Fashion Jewelry</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Engagement & Wedding</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Men's Jewelry</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Vintage & Antique</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Loose Diamonds </a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>Loose Beads</a></li>
+					<li><a href="/rango/category/Fashion"><span class="icon-chevron-right"></span>Fashion</a></li>
+					<li><a href="/rango/category/Watches"><span class="icon-chevron-right"></span>Watches</a></li>
+					<li><a href="/rango/category/Fine Jewelry"><span class="icon-chevron-right"></span>Fine Jewelry</a></li>
+					<li><a href="/rango/category/Fashion Jewelry"><span class="icon-chevron-right"></span>Fashion Jewelry</a></li>
+					<li><a href="/rango/category/Engagement & Wedding"><span class="icon-chevron-right"></span>Engagement & Wedding</a></li>
+					<li><a href="/rango/category/Men's Jewelry"><span class="icon-chevron-right"></span>Men's Jewelry</a></li>
+					<li><a href="/rango/category/Vintage & Antique"><span class="icon-chevron-right"></span>Vintage & Antique</a></li>
+					<li><a href="/rango/category/Loose Diamonds"><span class="icon-chevron-right"></span>Loose Diamonds </a></li>
+					<li><a href="/rango/category/Loose Beads"><span class="icon-chevron-right"></span>Loose Beads</a></li>
 					<li><a href="products.html"><span class="icon-chevron-right"></span>See All Jewelry & Watches</a></li>
 					<li style="border:0"> &nbsp;</li>
 					<li> <a class="totalInCart" href="cart.html"><strong>Total Amount  <span class="badge badge-warning pull-right" style="line-height:18px;">$448.42</span></strong></a></li>
@@ -293,6 +297,7 @@ accompanied by English versions from the 1914 translation by H. Rackham.
 	<span>Copyright &copy; 2013<br> bootstrap ecommerce shopping template</span>
 </div>
 </div>
+
 <a href="#" class="gotop"><i class="icon-double-angle-up"></i></a>
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="{% static "assets/js/jquery.js" %}"></script>
