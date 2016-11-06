@@ -2,7 +2,10 @@ from django.conf.urls import url
 from . import views
 
 urlpatterns = [
+    url(r'^like/$', views.like, name='like'),
+    url(r'^test/', views.test, name='test'),
     url(r'^index/', views.index, name='index'),
+    url(r'^search/$', views.search, name='search'),
     url(r'^myaccount/', views.myaccount, name='myaccount'),
     url(r'^register/', views.register, name='register'),
     url(r'^user_login/', views.user_login, name='user_login'),

@@ -65,6 +65,9 @@
 				  <p>
 				  <button type="submit" class="shopBtn"><span class=" icon-shopping-cart"></span> Add to cart</button>
 				</form>
+
+				<input type="button" id="like" value="like" data-prod="{{ product.id }}"/>
+				<div id="like_count">{{ product.like }}</div>
 			</div>
 			</div>
 				<hr class="softn clr"/>
@@ -90,7 +93,7 @@
 				<tr class="techSpecRow"><td class="techSpecTD1">Style:</td><td class="techSpecTD2">Apparel,Sports</td></tr>
 				<tr class="techSpecRow"><td class="techSpecTD1">Season:</td><td class="techSpecTD2">spring/summer</td></tr>
 				<tr class="techSpecRow"><td class="techSpecTD1">Usage:</td><td class="techSpecTD2">fitness</td></tr>
-				<tr class="techSpecRow"><td class="techSpecTD1">Sport:</td><td class="techSpecTD2">122855031</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Like:</td><td class="techSpecTD2">{{ product.like }}</td></tr>
 				<tr class="techSpecRow"><td class="techSpecTD1">Brand:</td><td class="techSpecTD2">Shock Absorber</td></tr>
 				</tbody>
 				</table>

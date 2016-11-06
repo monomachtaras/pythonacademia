@@ -7,12 +7,25 @@ from django.http import HttpResponse
 from django.template import RequestContext
 from django.shortcuts import render_to_response
 from .models import Product, UserProfile
+import json
+from django.core import serializers
+
+@login_required
+def like(request):
+    prod_id = request.GET['like_info']
+    product = Product.objects.get(id=prod_id)
+    product.like += 1
+    product.save()
+    return HttpResponse(product.like)
+
+def test(request):
+    context = RequestContext(request)
+    return render(request, 'rango/test.html', {}, context)
 
 
 def general(request):
     context = RequestContext(request)
     context_dict = {'boldmessage': 'I am a bald message'}
-    # return render_to_response('rango/general.html', context_dict, context)
     return render(request, 'rango/general.html', context_dict, context)
 
 
@@ -29,11 +42,24 @@ def show_category(request, category_name):
     return render(request, 'rango/list-view.html', context_dict, context)
 
 
-def list_view(request):
+def search(request):
     context = RequestContext(request)
-    context_dict = dict()
-    context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
-    return render(request, 'rango/list-view.html', context_dict, context)
+    search_info = request.POST['search_info']
+    listfilter= Product.objects.filter(name__icontains=search_info).order_by('price', 'name').reverse()
+    return render(request, 'rango/search.html', {'products_filter': listfilter}, context)
+
+
+def list_view(request):
+        context = RequestContext(request)
+        context_dict = dict()
+        context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
+        return render(request, 'rango/list-view.html', context_dict, context)
+
+# def list_view(request):
+#     context = RequestContext(request)
+#     context_dict = dict()
+#     context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
+#     return render(request, 'rango/list-view.html', context_dict, context)
 
 
 def grid_view(request):
@@ -59,7 +85,6 @@ def grid_view(request):
 def index(request):
     context = RequestContext(request)
     context_dict = {'boldmessage': 'I am a bald message'}
-    # return render_to_response('rango/index.html', context_dict, context)
     return render(request, 'rango/index.html', context_dict, context)
 
 
@@ -67,8 +92,7 @@ def product_details(request, product_id):
     context = RequestContext(request)
     product = Product.objects.get(id=product_id)
     context_dict = {'product': product}
-    return render_to_response('rango/product_details.html', context_dict, context)
-
+    return render(request, 'rango/product_details.html', context_dict, context)
 
 @login_required
 def about(request):

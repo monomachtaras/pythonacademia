@@ -23,7 +23,7 @@ class Product(models.Model):
     color = models.CharField(max_length=20)
     style = models.CharField(max_length=20)
     season = models.CharField(max_length=20)
-    sport = models.IntegerField()
+    like = models.IntegerField()
     brand = models.CharField(max_length=20)
     product_logo = models.FileField(upload_to='product_images', blank=True)
 
