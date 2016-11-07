@@ -39,7 +39,7 @@ def show_category(request, category_name):
     context = RequestContext(request)
     context_dict = dict()
     context_dict['products_all'] = Product.objects.filter(category=category_name)
-    return render(request, 'rango/list-view.html', context_dict, context)
+    return render(request, 'rango/list_view_category.html', context_dict, context)
 
 
 def search(request):
@@ -53,13 +53,8 @@ def list_view(request):
         context = RequestContext(request)
         context_dict = dict()
         context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
-        return render(request, 'rango/list-view.html', context_dict, context)
+        return render(request, 'rango/list_view.html', context_dict, context)
 
-# def list_view(request):
-#     context = RequestContext(request)
-#     context_dict = dict()
-#     context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
-#     return render(request, 'rango/list-view.html', context_dict, context)
 
 
 def grid_view(request):
@@ -78,8 +73,7 @@ def grid_view(request):
             k1 += 1
         k2 += 1
     context_dict['products_all'] = l2 # l2 is list of lists  [ [], [], [] ]
-    # return render_to_response('rango/grid-view.html', context_dict, context)
-    return render(request, 'rango/grid-view.html', context_dict, context)
+    return render(request, 'rango/grid_view.html', context_dict, context)
 
 
 def index(request):

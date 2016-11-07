@@ -7,12 +7,17 @@ $('#like').click(function(){
     });
 });
 
+$('#list_view').click(function(){
+    $('#ajax').empty().load("../list_view/").hide().fadeIn();
+});
 
+$('#grid_view').click(function(){
+    $('#ajax').empty().load("../grid_view/").hide().fadeIn();
+});
 
 $('#search').keyup(function(){
     var info = $(this).val();
-    $('#ajax').empty();
-    $('#ajax').load("../search/", {search_info: info});
+    $('#ajax').empty().load("../search/", {search_info: info}).hide().fadeIn();
 });
 
 
