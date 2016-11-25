@@ -18,9 +18,28 @@ def like(request):
     product.save()
     return HttpResponse(product.like)
 
+@login_required
+def delete_product(request):
+    prod_id = request.GET['delete_info']
+    product = Product.objects.get(id=prod_id)
+    product.delete()
+    return HttpResponse()
+
+
+@login_required
+def edit_product(request, edit_info):
+    context = RequestContext(request)
+    product = Product.objects.get(id=edit_info)
+    categories = Product.categories
+    return render(request, 'rango/edit_page.html', {'product': product, 'categories': categories}, context)
+
+
 def test(request):
     context = RequestContext(request)
-    return render(request, 'rango/test.html', {}, context)
+    product = Product.objects.get(id=12)
+
+    pform = ProductForm(initial=product.__dict__)
+    return render(request, 'rango/test.html', {'form': pform}, context)
 
 
 def general(request):
@@ -85,6 +104,7 @@ def index(request):
 def product_details(request, product_id):
     context = RequestContext(request)
     product = Product.objects.get(id=product_id)
+    print(product.__dict__)
     context_dict = {'product': product}
     return render(request, 'rango/product_details.html', context_dict, context)
 
@@ -103,15 +123,12 @@ def add_product(request):
         form = ProductForm(request.POST, request.FILES)
         if form.is_valid():
             if 'product_logo' in request.FILES:
-                print('is is')
                 form.product_logo = request.FILES['product_logo']
-                print(form)
             else:
                 print('not in')
             form.save()
             createdProduct = True
-            return render_to_response('rango/add_product.html', {'form': form, 'createdProduct': createdProduct},
-                                      context)
+            return render(request, 'rango/add_product.html', {'createdProduct': createdProduct}, context)
         else:
             print(form.errors)
     else:

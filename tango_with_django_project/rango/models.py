@@ -17,6 +17,7 @@ class Product(models.Model):
         ('Men\'s Jewelry', 'Men\'s Jewelry'), ('Vintage & Antique', 'Vintage & Antique'),
         ('Loose Diamonds', 'Loose Diamonds'), ('Loose Beads', 'Loose Beads')
                 )
+
     name = models.CharField(max_length=128, unique=True)
     price = models.IntegerField()
     category = models.CharField(max_length=25, choices=categories, default='Fashion')

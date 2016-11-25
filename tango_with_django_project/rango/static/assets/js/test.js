@@ -7,17 +7,41 @@ $('#like').click(function(){
     });
 });
 
+$('#delete').click(function(){
+    var info = $(this).attr("data-prod");
+
+    if(confirm("Are you sure?"))
+    {
+    $.get('/rango/delete_product/', {delete_info: info}, function(data){
+    $('#ajax').hide();
+
+    });
+    }
+
+});
+
+$('#edit').click(function(){
+    var info = $(this).attr("data-prod");
+    $('#ajax').load("../edit_product/"+info);
+    setTimeout(function() {
+    var category = "#"+$('#hidden').attr("data-prod");
+    alert(category);
+    $(category).attr("selected","selected");
+         }, 2000);
+
+    });
+
 $('#list_view').click(function(){
-    $('#ajax').empty().load("../list_view/").hide().fadeIn();
+    $('#ajax').load("../list_view/").hide().fadeIn();
 });
 
 $('#grid_view').click(function(){
-    $('#ajax').empty().load("../grid_view/").hide().fadeIn();
+    $('#ajax').load("../grid_view/").hide().fadeIn();
 });
 
 $('#search').keyup(function(){
     var info = $(this).val();
-    $('#ajax').empty().load("../search/", {search_info: info}).hide().fadeIn();
+    $('#ajax').load("../search/", {search_info: info}).hide().fadeIn();
 });
 
 

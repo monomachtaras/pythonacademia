@@ -67,6 +67,11 @@
 				</form>
 
 				<input type="button" id="like" value="like" data-prod="{{ product.id }}"/>
+				{% if user.is_authenticated %}
+				<input type="button" id="delete" value="Delete " data-prod="{{ product.id }}"/>
+				<input type="button" id="edit" value="Edit " data-prod="{{ product.id }}"/>
+				{% endif %}
+
 				<div id="like_count">{{ product.like }}</div>
 			</div>
 			</div>
@@ -89,12 +94,12 @@
 			  <h4>Product Information</h4>
                 <table class="table table-striped">
 				<tbody>
-				<tr class="techSpecRow"><td class="techSpecTD1">Color:</td><td class="techSpecTD2">Black</td></tr>
-				<tr class="techSpecRow"><td class="techSpecTD1">Style:</td><td class="techSpecTD2">Apparel,Sports</td></tr>
-				<tr class="techSpecRow"><td class="techSpecTD1">Season:</td><td class="techSpecTD2">spring/summer</td></tr>
-				<tr class="techSpecRow"><td class="techSpecTD1">Usage:</td><td class="techSpecTD2">fitness</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Color:</td><td class="techSpecTD2">{{ product.color }}</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Style:</td><td class="techSpecTD2">{{ product.style }}</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Season:</td><td class="techSpecTD2">{{ product.season }}</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Category:</td><td class="techSpecTD2">{{ product.category }}</td></tr>
 				<tr class="techSpecRow"><td class="techSpecTD1">Like:</td><td class="techSpecTD2">{{ product.like }}</td></tr>
-				<tr class="techSpecRow"><td class="techSpecTD1">Brand:</td><td class="techSpecTD2">Shock Absorber</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Brand:</td><td class="techSpecTD2">{{ product.brand}}</td></tr>
 				</tbody>
 				</table>
 				<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
