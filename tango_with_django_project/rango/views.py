@@ -6,9 +6,11 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.http import HttpResponse
 from django.template import RequestContext
 from django.shortcuts import render_to_response
-from .models import Product, UserProfile
+from .models import Product, Category, UserProfile
+import django.forms
 import json
-from django.core import serializers
+from django.views.generic import ListView, UpdateView
+
 
 @login_required
 def like(request):
@@ -29,9 +31,28 @@ def delete_product(request):
 @login_required
 def edit_product(request, edit_info):
     context = RequestContext(request)
-    product = Product.objects.get(id=edit_info)
-    categories = Product.categories
-    return render(request, 'rango/edit_page.html', {'product': product, 'categories': categories}, context)
+    edited_product = False
+    if request.method == 'POST':
+        instance = Product.objects.get(id=edit_info)
+        form = ProductForm(request.POST, request.FILES, instance=instance)
+        if form.is_valid():
+            if 'product_logo' in request.FILES:
+                form.product_logo = request.FILES['product_logo']
+            else:
+                print('not in')
+            form.save()
+            edited_product = True
+            return render(request, 'rango/edit_product.html', {'edited_product': edited_product}, context)
+        else:
+            print(form.errors)
+    else:
+        product = Product.objects.get(id=edit_info)
+        d = product.__dict__
+        d['category'] = product.category.id
+        d['product-logo'] = '../'+product.product_logo.url
+        pform = ProductForm(initial=d)
+        return render(request, 'rango/edit_product.html', {'form': pform, 'edited_product': edited_product,
+                                                           'product': product}, context)
 
 
 def test(request):
@@ -44,20 +65,22 @@ def test(request):
 
 def general(request):
     context = RequestContext(request)
-    context_dict = {'boldmessage': 'I am a bald message'}
+    categories = Category.objects.all()
+    context_dict = {'boldmessage': 'I am a bald message', 'categories': categories}
     return render(request, 'rango/general.html', context_dict, context)
 
 
-def myaccount(request):
+def my_account(request):
     context = RequestContext(request)
     context_dict = dict()
-    return render(request, 'rango/myaccount.html', context_dict, context)
+    return render(request, 'rango/my_account.html', context_dict, context)
 
 
 def show_category(request, category_name):
     context = RequestContext(request)
     context_dict = dict()
-    context_dict['products_all'] = Product.objects.filter(category=category_name)
+    print(category_name)
+    context_dict['products_all'] = Product.objects.filter(category='Watches')
     return render(request, 'rango/list_view_category.html', context_dict, context)
 
 
@@ -73,7 +96,6 @@ def list_view(request):
         context_dict = dict()
         context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
         return render(request, 'rango/list_view.html', context_dict, context)
-
 
 
 def grid_view(request):
@@ -97,15 +119,16 @@ def grid_view(request):
 
 def index(request):
     context = RequestContext(request)
-    context_dict = {'boldmessage': 'I am a bald message'}
+    categories = Category.objects.all()
+    context_dict = {'boldmessage': 'I am a bald message', 'categories': categories}
     return render(request, 'rango/index.html', context_dict, context)
 
 
 def product_details(request, product_id):
     context = RequestContext(request)
+    categories = Category.objects.all()
     product = Product.objects.get(id=product_id)
-    print(product.__dict__)
-    context_dict = {'product': product}
+    context_dict = {'product': product, 'categories': categories}
     return render(request, 'rango/product_details.html', context_dict, context)
 
 @login_required
@@ -115,7 +138,7 @@ def about(request):
     print(dir(use))
     return HttpResponse(string)
 
-
+@login_required
 def add_product(request):
     context = RequestContext(request)
     createdProduct = False
@@ -149,7 +172,6 @@ def register(request):
             profile = profile_form.save(commit=False)
             profile.user = user
             if 'user_logo' in request.FILES:
-                print('ababagalamaga')
                 profile.user_logo = request.FILES['user_logo']
                 profile.save()
                 createdUser = True
@@ -164,7 +186,7 @@ def register(request):
 
 def user_login(request):
     context = RequestContext(request)
-    context_dict = dict()
+    categories = Category.objects.all()
     if request.method == 'POST':
         username = request.POST['username']
         password = request.POST['password']
@@ -172,14 +194,14 @@ def user_login(request):
         if user is not None:
             if user.is_active:
                 login(request, user)
-                return render(request, 'rango/myaccount.html', context_dict, context)
+                return render(request, 'rango/my_account.html', {'categories': categories}, context)
             else:
-                return render(request, 'rango/register.html', context)
+                return render(request, 'rango/register.html', {'categories': categories}, context)
         else:
             print("Invalid login details: {}, {}".format(username, password))
-            return render(request, 'rango/register.html', {})
+            return render(request, 'rango/register.html', {'categories': categories})
     else:
-        return render(request, 'rango/register.html', context)
+        return render(request, 'rango/register.html', {'categories': categories}, context)
 
 
 @login_required

@@ -43,7 +43,7 @@
 				</a>
 
 				<a href="/rango/index"> <span class="icon-home"></span> Home</a>
-				<a href="/rango/myaccount"><span class="icon-user"></span> My Account</a>
+				<a id=my_account href="#"><span class="icon-user"></span> My Account</a>
 				<a href="/rango/register"><span class="icon-edit"></span> Free Register </a>
 				<a href="#"><span class="icon-envelope"></span> Contact us</a>
 				<a href="#"><span class="icon-shopping-cart"></span> 1 Item(s) - <span class="badge badge-warning"> $448.42</span></a>
@@ -102,7 +102,7 @@ Navigation Bar Section
 			  <li class=""><a id="grid_view" href="#">Grid View</a></li>
 			  <li class=""><a href="#">Three Column</a></li>
 				{% if user.is_authenticated %}
-				<li class=""><a href="/rango/add_product">Add Product</a></li>
+				<li class=""><a id="add_product" href="#">Add Product</a></li>
 				{% else %}
 			    <li class=""><a href="#">Four Column</a></li>
 				{% endif %}
@@ -157,16 +157,14 @@ Body Section
 		<div id="sidebar" class="span3">
 			<div class="well well-small">
 				<ul class="nav nav-list">
-					<li><a href="/rango/category/Fashion"><span class="icon-chevron-right"></span>Fashion</a></li>
-					<li><a href="/rango/category/Watches"><span class="icon-chevron-right"></span>Watches</a></li>
-					<li><a href="/rango/category/Fine Jewelry"><span class="icon-chevron-right"></span>Fine Jewelry</a></li>
-					<li><a href="/rango/category/Fashion Jewelry"><span class="icon-chevron-right"></span>Fashion Jewelry</a></li>
-					<li><a href="/rango/category/Engagement & Wedding"><span class="icon-chevron-right"></span>Engagement & Wedding</a></li>
-					<li><a href="/rango/category/Men's Jewelry"><span class="icon-chevron-right"></span>Men's Jewelry</a></li>
-					<li><a href="/rango/category/Vintage & Antique"><span class="icon-chevron-right"></span>Vintage & Antique</a></li>
-					<li><a href="/rango/category/Loose Diamonds"><span class="icon-chevron-right"></span>Loose Diamonds </a></li>
-					<li><a href="/rango/category/Loose Beads"><span class="icon-chevron-right"></span>Loose Beads</a></li>
-					<li><a href="products.html"><span class="icon-chevron-right"></span>See All Jewelry & Watches</a></li>
+					{% if categories %}
+					{% for category in categories %}
+						<li><a href="/rango/category/{{category.name}}"><span class="icon-chevron-right"></span>{{category.name}}</a></li>
+					{% endfor %}
+
+					{% else %}
+					<p><h5>There is no categories yet</h5></p>
+					{% endif %}
 					<li style="border:0"> &nbsp;</li>
 					<li> <a class="totalInCart" href="cart.html"><strong>Total Amount  <span class="badge badge-warning pull-right" style="line-height:18px;">$448.42</span></strong></a></li>
 				</ul>

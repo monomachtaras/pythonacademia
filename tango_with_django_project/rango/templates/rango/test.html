@@ -1,25 +1,10 @@
-<!doctype html>
-<html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <title>html demo</title>
-  <style>
+<div class="span9">
+    <div class="well well-small">
+        <form action="" method="post">{% csrf_token %}
+            {{ form }}
+            <input type="submit" value="Send message" />
+        </form>
+    </div>
+</div>
 
-  </style>
-</head>
-<body>
-
-<p id="taras">
-  <b>Click</b> to change the <span id="tag">html</span>
-
-</p>
-<form action="" method="post">{% csrf_token %}
-    {{ form.as_p }}
-    <input type="submit" value="Send message" />
-</form>
-
-
-
-</body>
-</html>

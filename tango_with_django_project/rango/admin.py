@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Product, UserProfile
+from .models import Product, Category, UserProfile
 
 
 class PageAdmin(admin.ModelAdmin):
@@ -7,4 +7,5 @@ class PageAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Product, PageAdmin)
+admin.site.register(Category)
 admin.site.register(UserProfile)

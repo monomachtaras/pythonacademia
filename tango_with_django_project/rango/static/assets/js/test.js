@@ -3,18 +3,14 @@ $('#like').click(function(){
     $.get('/rango/like/', {like_info: info}, function(data){
     $('#like_count').html(data);
     $('#like').hide();
-
     });
 });
 
 $('#delete').click(function(){
     var info = $(this).attr("data-prod");
-
-    if(confirm("Are you sure?"))
-    {
+    if(confirm("Are you sure?")){
     $.get('/rango/delete_product/', {delete_info: info}, function(data){
     $('#ajax').hide();
-
     });
     }
 
@@ -23,12 +19,6 @@ $('#delete').click(function(){
 $('#edit').click(function(){
     var info = $(this).attr("data-prod");
     $('#ajax').load("../edit_product/"+info);
-    setTimeout(function() {
-    var category = "#"+$('#hidden').attr("data-prod");
-    alert(category);
-    $(category).attr("selected","selected");
-         }, 2000);
-
     });
 
 $('#list_view').click(function(){
@@ -38,11 +28,18 @@ $('#list_view').click(function(){
 $('#grid_view').click(function(){
     $('#ajax').load("../grid_view/").hide().fadeIn();
 });
-
+$('#add_product').click(function(){
+    $('#ajax').load("../add_product/").hide().fadeIn();
+});
+$('#my_account').click(function(){
+    $('#ajax').load("../my_account/").hide().fadeIn();
+});
 $('#search').keyup(function(){
     var info = $(this).val();
     $('#ajax').load("../search/", {search_info: info}).hide().fadeIn();
 });
+
+
 
 
 $(document).ready(function() {
