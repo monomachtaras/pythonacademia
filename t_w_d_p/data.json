@@ -1,0 +1,275 @@
+[
+{
+    "model": "rango.category",
+    "pk": 1,
+    "fields": {
+        "name": "Fashion"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 2,
+    "fields": {
+        "name": "Watches"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 3,
+    "fields": {
+        "name": "Fine Jewelry"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 4,
+    "fields": {
+        "name": "Fashion Jewelry"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 5,
+    "fields": {
+        "name": "Engagement & Wedding"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 6,
+    "fields": {
+        "name": "Men's Jewelry"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 7,
+    "fields": {
+        "name": "Vintage & Antique"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 8,
+    "fields": {
+        "name": "Loose Diamonds"
+    }
+},
+{
+    "model": "rango.category",
+    "pk": 9,
+    "fields": {
+        "name": "Loose Beads"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 3,
+    "fields": {
+        "category": 2,
+        "name": "Rolex Watch",
+        "price": 3456,
+        "color": "gold",
+        "style": "classic",
+        "season": "hole year",
+        "like": 356,
+        "brand": "Rolex",
+        "product_logo": "product_images/shopping-cart-template.PNG"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 4,
+    "fields": {
+        "category": 2,
+        "name": "Orient Watch",
+        "price": 230,
+        "color": "black",
+        "style": "classic",
+        "season": "hole year",
+        "like": 23,
+        "brand": "Orient",
+        "product_logo": "product_images/FD0J001T-6.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 5,
+    "fields": {
+        "category": 2,
+        "name": "Old Watch",
+        "price": 345,
+        "color": "gold",
+        "style": "classic",
+        "season": "summer",
+        "like": 78,
+        "brand": "Antique",
+        "product_logo": "product_images/carousel1.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 6,
+    "fields": {
+        "category": 2,
+        "name": "Simple Watch",
+        "price": 123,
+        "color": "black",
+        "style": "sport",
+        "season": "winter",
+        "like": 23,
+        "brand": "Rolex",
+        "product_logo": "product_images/a.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 7,
+    "fields": {
+        "category": 5,
+        "name": "Blue Ring",
+        "price": 321,
+        "color": "Blue",
+        "style": "free",
+        "season": "hole year",
+        "like": 32,
+        "brand": "Ocean",
+        "product_logo": "product_images/j.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 8,
+    "fields": {
+        "category": 5,
+        "name": "Wedding Ring",
+        "price": 213,
+        "color": "gold",
+        "style": "classic",
+        "season": "hole year",
+        "like": 34,
+        "brand": "goddbrand",
+        "product_logo": "product_images/e.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 9,
+    "fields": {
+        "category": 1,
+        "name": "Neckless",
+        "price": 456,
+        "color": "many colors",
+        "style": "classic",
+        "season": "spring",
+        "like": 42,
+        "brand": "aztec",
+        "product_logo": "product_images/f.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 10,
+    "fields": {
+        "category": 8,
+        "name": "Purple Diamond",
+        "price": 432,
+        "color": "purple",
+        "style": "classic",
+        "season": "spring",
+        "like": 12,
+        "brand": "Purple Country",
+        "product_logo": "product_images/i.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 11,
+    "fields": {
+        "category": 7,
+        "name": "Arm Bracelett",
+        "price": 325,
+        "color": "gold",
+        "style": "classic",
+        "season": "exept winter",
+        "like": 43,
+        "brand": "Asus",
+        "product_logo": "product_images/b.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 12,
+    "fields": {
+        "category": 6,
+        "name": "Arm Thing",
+        "price": 12,
+        "color": "many colors",
+        "style": "free",
+        "season": "no matter",
+        "like": 32,
+        "brand": "adidas",
+        "product_logo": "product_images/c.jpg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 13,
+    "fields": {
+        "category": 9,
+        "name": "Green Bead",
+        "price": 48,
+        "color": "green",
+        "style": "free",
+        "season": "summer",
+        "like": 54,
+        "brand": "green",
+        "product_logo": "product_images/bootstrap-template.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 14,
+    "fields": {
+        "category": 4,
+        "name": "All Rings",
+        "price": 65,
+        "color": "gold",
+        "style": "classic",
+        "season": "spring",
+        "like": 12,
+        "brand": "Orient",
+        "product_logo": "product_images/carousel3.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 15,
+    "fields": {
+        "category": 3,
+        "name": "Fine Bracelett",
+        "price": 54,
+        "color": "brown",
+        "style": "free",
+        "season": "hole year",
+        "like": 43,
+        "brand": "adidas",
+        "product_logo": "product_images/s.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 16,
+    "fields": {
+        "category": 5,
+        "name": "Green Ring",
+        "price": 82,
+        "color": "green",
+        "style": "free",
+        "season": "summer",
+        "like": 34,
+        "brand": "green",
+        "product_logo": "product_images/bootstrap-ring.png"
+    }
+}
+]
