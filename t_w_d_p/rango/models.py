@@ -4,10 +4,10 @@ from django.contrib.auth.models import User
 
 class UserProfile(models.Model):
     user = models.OneToOneField(User)
-    user_logo = models.ImageField(upload_to='user_images', blank=True)
+    userLogo = models.ImageField(upload_to='user_images', blank=True)
 
     def __str__(self):
-        return self.user_logo
+        return self.userLogo
 
 
 class Category(models.Model):
@@ -25,7 +25,7 @@ class Product(models.Model):
     season = models.CharField(max_length=20)
     like = models.IntegerField()
     brand = models.CharField(max_length=20)
-    product_logo = models.FileField(upload_to='product_images', blank=True)
+    productLogo = models.FileField(upload_to='product_images', blank=True)
 
     def __str__(self):
-        return self.name + ' ' + str(self.price) + ' ' + str(self.product_logo)
+        return self.name + ' ' + str(self.price) + ' ' + str(self.productLogo)

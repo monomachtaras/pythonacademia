@@ -23,7 +23,7 @@ def delete_product(request):
     prod_id = request.GET['delete_info']
     product = Product.objects.get(id=prod_id)
     product.delete()
-    return HttpResponse()
+    return HttpResponse('Product was deleted')
 
 
 # @login_required
@@ -56,19 +56,11 @@ def delete_product(request):
 class ProductUpdateView(UpdateView): # update product based on ClassBasedViews
     model = Product
     template_name = 'rango/edit_product.html'
-    print(Product().__dict__.keys())
-    fields = [x for x in Product().__dict__.keys() if not x.__contains__('_')]
-
-    def post(self, request, *args, **kwargs):
-        return super(ProductUpdateView, self).post(request, *args, **kwargs)
-
-
-def test(request):
-    context = RequestContext(request)
-    product = Product.objects.get(id=12)
-
-    pform = ProductForm(initial=product.__dict__)
-    return render(request, 'rango/test.html', {'form': pform}, context)
+    fields = [x for x in Product().__dict__.keys() if not x.startswith('_')] # exclude fields i dont need
+    for x in range(len(fields)):
+        if fields[x].__contains__('_'):
+            fields[x] = fields[x][:fields[x].find('_')] # convert category_id to category
+    success_url = '../index'
 
 
 def general(request):
@@ -98,30 +90,29 @@ def search(request):
     listfilter= Product.objects.filter(name__icontains=search_info).order_by('price', 'name').reverse()
     return render(request, 'rango/search.html', {'products_filter': listfilter}, context)
 
+# works good but i need paginator so I use FBView
+# class ProductListViev(ListView):
+#     model = Product
+#     template_name = 'rango/list_view.html'
 
-class ProductListViev(ListView):
-    model = Product
-    template_name = 'rango/list_view.html'
 
+def list_view(request, page):
+        context = RequestContext(request)
+        context_dict = dict()
+        products_all = Product.objects.all().order_by('price', 'name').reverse()
+        paginator = Paginator(products_all, 2)
+        try:
+            products_all = paginator.page(page)
+        except PageNotAnInteger:
+            # If page is not an integer, deliver first page.
+            products_all = paginator.page(1)
+        except EmptyPage:
+            # If page is out of range (e.g. 9999), deliver last page of results.
+            products_all = paginator.page(paginator.num_pages)
 
-# def list_view(request):
-#         context = RequestContext(request)
-#         context_dict = dict()
-#         products_all = Product.objects.all().order_by('price', 'name').reverse()
-#         paginator = Paginator(products_all, 2)
-#         page = request.GET.get('page')
-#         try:
-#             products_all = paginator.page(page)
-#         except PageNotAnInteger:
-#             # If page is not an integer, deliver first page.
-#             products_all = paginator.page(1)
-#         except EmptyPage:
-#             # If page is out of range (e.g. 9999), deliver last page of results.
-#             products_all = paginator.page(paginator.num_pages)
-#
-#         context_dict['products_all'] = Product.objects.all().order_by('price', 'name').reverse()
-#
-#         return render(request, 'rango/list_view.html', context_dict, context)
+        context_dict['object_list'] = products_all
+
+        return render(request, 'rango/list_view.html', context_dict, context)
 
 
 def grid_view(request):

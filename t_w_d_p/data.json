@@ -1,5 +1,13 @@
 [
 {
+    "model": "rango.userprofile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "userLogo": "user_images/20160819_124733-1_7PRsbRp.jpg"
+    }
+},
+{
     "model": "rango.category",
     "pk": 1,
     "fields": {
@@ -74,7 +82,7 @@
         "season": "hole year",
         "like": 356,
         "brand": "Rolex",
-        "product_logo": "product_images/shopping-cart-template.PNG"
+        "productLogo": "product_images/shopping-cart-template.PNG"
     }
 },
 {
@@ -89,7 +97,7 @@
         "season": "hole year",
         "like": 23,
         "brand": "Orient",
-        "product_logo": "product_images/FD0J001T-6.jpg"
+        "productLogo": "product_images/FD0J001T-6.jpg"
     }
 },
 {
@@ -104,7 +112,7 @@
         "season": "summer",
         "like": 78,
         "brand": "Antique",
-        "product_logo": "product_images/carousel1.png"
+        "productLogo": "product_images/carousel1.png"
     }
 },
 {
@@ -119,7 +127,7 @@
         "season": "winter",
         "like": 23,
         "brand": "Rolex",
-        "product_logo": "product_images/a.jpg"
+        "productLogo": "product_images/a.jpg"
     }
 },
 {
@@ -134,7 +142,7 @@
         "season": "hole year",
         "like": 32,
         "brand": "Ocean",
-        "product_logo": "product_images/j.jpg"
+        "productLogo": "product_images/j.jpg"
     }
 },
 {
@@ -149,7 +157,7 @@
         "season": "hole year",
         "like": 34,
         "brand": "goddbrand",
-        "product_logo": "product_images/e.jpg"
+        "productLogo": "product_images/e.jpg"
     }
 },
 {
@@ -164,7 +172,7 @@
         "season": "spring",
         "like": 42,
         "brand": "aztec",
-        "product_logo": "product_images/f.jpg"
+        "productLogo": "product_images/f.jpg"
     }
 },
 {
@@ -179,7 +187,7 @@
         "season": "spring",
         "like": 12,
         "brand": "Purple Country",
-        "product_logo": "product_images/i.jpg"
+        "productLogo": "product_images/i.jpg"
     }
 },
 {
@@ -194,7 +202,7 @@
         "season": "exept winter",
         "like": 43,
         "brand": "Asus",
-        "product_logo": "product_images/b.jpg"
+        "productLogo": "product_images/b.jpg"
     }
 },
 {
@@ -209,7 +217,7 @@
         "season": "no matter",
         "like": 32,
         "brand": "adidas",
-        "product_logo": "product_images/c.jpg"
+        "productLogo": "product_images/c.jpg"
     }
 },
 {
@@ -224,7 +232,7 @@
         "season": "summer",
         "like": 54,
         "brand": "green",
-        "product_logo": "product_images/bootstrap-template.png"
+        "productLogo": "product_images/bootstrap-template.png"
     }
 },
 {
@@ -239,7 +247,7 @@
         "season": "spring",
         "like": 12,
         "brand": "Orient",
-        "product_logo": "product_images/carousel3.png"
+        "productLogo": "product_images/carousel3.png"
     }
 },
 {
@@ -254,7 +262,7 @@
         "season": "hole year",
         "like": 43,
         "brand": "adidas",
-        "product_logo": "product_images/s.png"
+        "productLogo": "product_images/s.png"
     }
 },
 {
@@ -269,7 +277,37 @@
         "season": "summer",
         "like": 34,
         "brand": "green",
-        "product_logo": "product_images/bootstrap-ring.png"
+        "productLogo": "product_images/bootstrap-ring.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 17,
+    "fields": {
+        "category": 3,
+        "name": "Blue Knife",
+        "price": 65,
+        "color": "Blue",
+        "style": "best Style",
+        "season": "winter",
+        "like": 23,
+        "brand": "BlueBerry",
+        "productLogo": "product_images/bootstrap-ecommerce-templates.PNG"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 18,
+    "fields": {
+        "category": 6,
+        "name": "Disco card",
+        "price": 15,
+        "color": "green",
+        "style": "warm",
+        "season": "spring",
+        "like": 69,
+        "brand": "Asus",
+        "productLogo": "product_images/disc.png"
     }
 }
 ]

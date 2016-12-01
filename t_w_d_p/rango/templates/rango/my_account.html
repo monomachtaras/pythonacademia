@@ -4,7 +4,7 @@
     <div class="well well-small">
     {% if user.is_authenticated %}
     <h1>Rango says... hello {{ user.username }}!</h1>
-    <img height="50" width="70" src={{ user.userprofile.user_logo.url }} alt="taras">
+    <img height="50" width="70" src={{ user.userprofile.userLogo.url }} alt="taras">
     <h1>{{ user.email }}</h1>
     {% else %}
     <h1>You are not registered! First register please.</h1>

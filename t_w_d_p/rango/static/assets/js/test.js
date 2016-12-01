@@ -10,10 +10,9 @@ $('#delete').click(function(){
     var info = $(this).attr("data-prod");
     if(confirm("Are you sure?")){
     $.get('/rango/delete_product/', {delete_info: info}, function(data){
-    $('#ajax').hide();
+    $('#ajax').empty();
     });
     }
-
 });
 
 $('#edit').click(function(){
@@ -27,10 +26,19 @@ $('.category').click(function(){
     });
 
 
-$('#list_view').click(function(){
-    $('#ajax').load("../list_view/").hide().fadeIn();
+$('.list_view').click(function(){
+    var info = $(this).attr("data-prod");
+    alert(info);
+    $('#ajax').load("../list_view/"+info).hide().fadeIn();
 });
 
+
+
+
+$('#loadUpdateViewJquery').click(function(){
+    var info = $(this).attr("data-prod");
+    $('#ajax').load("../edit_product/"+info).hide().fadeIn();
+});
 $('#grid_view').click(function(){
     $('#ajax').load("../grid_view/").hide().fadeIn();
 });
