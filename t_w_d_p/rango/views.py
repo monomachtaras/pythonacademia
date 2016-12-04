@@ -77,41 +77,37 @@ def my_account(request):
     return render(request, 'rango/my_account.html', context_dict, context)
 
 
-def show_category(request, category_id):
-    context = RequestContext(request)
-    context_dict = dict()
-    context_dict['products_all'] = Product.objects.filter(category=category_id)
-    return render(request, 'rango/list_view_category.html', context_dict, context)
-
-
-def search(request):
-    context = RequestContext(request)
-    search_info = request.POST['search_info']
-    listfilter= Product.objects.filter(name__icontains=search_info).order_by('price', 'name').reverse()
-    return render(request, 'rango/search.html', {'products_filter': listfilter}, context)
-
-# works good but i need paginator so I use FBView
+# works good but i need paginator so I use FBView (later i will improve with CBW)
 # class ProductListViev(ListView):
 #     model = Product
 #     template_name = 'rango/list_view.html'
 
 
-def list_view(request, page):
+def list_view(request, category_id='', page=None, search_info=''):
         context = RequestContext(request)
         context_dict = dict()
-        products_all = Product.objects.all().order_by('price', 'name').reverse()
-        paginator = Paginator(products_all, 2)
-        try:
-            products_all = paginator.page(page)
-        except PageNotAnInteger:
-            # If page is not an integer, deliver first page.
-            products_all = paginator.page(1)
-        except EmptyPage:
-            # If page is out of range (e.g. 9999), deliver last page of results.
-            products_all = paginator.page(paginator.num_pages)
-
+        if category_id: # if we specify category
+            products_all = Product.objects.filter(category=category_id)
+        elif search_info:
+            print('search_info ',search_info)
+            products_all = Product.objects.filter(name__icontains=search_info).order_by('price', 'name').reverse()
+        else:
+            products_all = Product.objects.all().order_by('price', 'name').reverse()
+        if len(products_all) > 5:  # if len is < 5 not to display paginator
+            paginator = Paginator(products_all, 5)
+            context_dict['paginator'] = True
+            try:
+                products_all = paginator.page(page)
+            except PageNotAnInteger:
+                # If page is not an integer, deliver first page.
+                products_all = paginator.page(1)
+            except EmptyPage:
+                # If page is out of range (e.g. 9999), deliver last page of results.
+                products_all = paginator.page(paginator.num_pages)
+        else:
+            context_dict['paginator'] = False
         context_dict['object_list'] = products_all
-
+        context_dict['category_id'] = category_id
         return render(request, 'rango/list_view.html', context_dict, context)
 
 

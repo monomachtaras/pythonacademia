@@ -1,5 +1,6 @@
 	<div class="span9">
 		<div class="well well-small">
+			{% if object_list %}
 			{% for product in object_list %}
 			<div class="row-fluid">
 				<div class="span2">
@@ -31,35 +32,23 @@
 
             {% endfor %}
 
-
-
-
-
-
-
-			<br>
-			{{ object_list.next_page_number }}
-			<br>
-		<a class="list_view2" data-prod="{{ object_list.next_page_number }}">Next</a>
-			<br>
-			<!--<div class="pagination">-->
-				<span class="step-links">
-					{% if object_list.has_previous %}
-						<a class="list_view" data-prod="{{ object_list.previous_page_number }"}>previous</a>
-					{% endif %}
-
-					<span class="current">
-						Page {{ object_list.number }} of {{ object_list.paginator.num_pages }}.
+					{% if paginator %} <!--checks if there is more then 5 elements on the page-->
+					<span class="step-links">
+						{% if object_list.has_previous %}
+							<a class="list_view" data-prod="{{category_id}}/{{ object_list.previous_page_number }}"}> Previous </a>
+						{% endif %}
+						<span class="current">
+							Page {{ object_list.number }} of {{ object_list.paginator.num_pages }}
+						</span>
+						{% if object_list.has_next %}
+							<a class="list_view" data-prod="{{category_id}}/{{ object_list.next_page_number }}"> Next </a>
+						{% endif %}
 					</span>
-
-					{% if object_list.has_next %}
-						<a class="list_view" data-prod="{{ object_list.next_page_number }}">Next</a>
 					{% endif %}
-				</span>
-			<!--</div>-->
 
-
+			{% else %}
+			<h3>No goods here yet. Sorry for now!</h3>
+			{% endif %}
 
 		</div>
 	</div>
-<div id="list" data-prod="4">Taras</div>

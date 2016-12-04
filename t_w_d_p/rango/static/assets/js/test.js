@@ -1,3 +1,22 @@
+$(document).on('click', '.list_view', function(){
+    // what you want to happen when mouseover and mouseout
+    // occurs on elements that match '.dosomething'
+    // info from stackoverflow  VERY NICE
+    // http://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements
+    var info = $(this).attr("data-prod");
+    var search_info = $('#search').val();
+    $('#ajax').load("../list_view/"+info+'/'+search_info).hide().fadeIn();
+});
+
+$('#loadUpdateViewJquery').click(function(){
+    var info = $(this).attr("data-prod");
+    $('#ajax').load("../edit_product/"+info).hide().fadeIn();
+});
+
+$('#clearSearchInfo').click(function(){
+    $('#search').val('');
+});
+
 $('#like').click(function(){
     var info = $(this).attr("data-prod");
     $.get('/rango/like/', {like_info: info}, function(data){
@@ -22,30 +41,17 @@ $('#edit').click(function(){
 
 $('.category').click(function(){
     var info = $(this).attr("data-prod");
-    $('#ajax').load("../category/"+info);
+    $('#ajax').load("../list_view/"+info+"/1");
     });
 
 
-$('.list_view').click(function(){
-    var info = $(this).attr("data-prod");
-    alert(info);
-    $('#ajax').load("../list_view/"+info).hide().fadeIn();
-});
-
-
-
-
-$('#loadUpdateViewJquery').click(function(){
-    var info = $(this).attr("data-prod");
-    $('#ajax').load("../edit_product/"+info).hide().fadeIn();
-});
 $('#grid_view').click(function(){
     $('#ajax').load("../grid_view/").hide().fadeIn();
 });
 
 $('#search').keyup(function(){
     var info = $(this).val();
-    $('#ajax').load("../search/", {search_info: info}).hide().fadeIn();
+    $('#ajax').load("../list_view///"+info).hide().fadeIn();
 });
 
 

@@ -1,13 +1,5 @@
 [
 {
-    "model": "rango.userprofile",
-    "pk": 1,
-    "fields": {
-        "user": 1,
-        "userLogo": "user_images/20160819_124733-1_7PRsbRp.jpg"
-    }
-},
-{
     "model": "rango.category",
     "pk": 1,
     "fields": {
@@ -308,6 +300,36 @@
         "like": 69,
         "brand": "Asus",
         "productLogo": "product_images/disc.png"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 19,
+    "fields": {
+        "category": 2,
+        "name": "Radisson SuperWatch",
+        "price": 2000,
+        "color": "blue",
+        "style": "classic",
+        "season": "summer",
+        "like": 43,
+        "brand": "Orient",
+        "productLogo": "product_images/rad.jpeg"
+    }
+},
+{
+    "model": "rango.product",
+    "pk": 20,
+    "fields": {
+        "category": 2,
+        "name": "Swiss Watch",
+        "price": 482,
+        "color": "gold",
+        "style": "classic",
+        "season": "winter",
+        "like": 90,
+        "brand": "Swiss brand",
+        "productLogo": "product_images/swiss.jpeg"
     }
 }
 ]
