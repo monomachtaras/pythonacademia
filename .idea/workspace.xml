@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94c285a-bff5-4aa2-a500-1a2b4667d6e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/product_images/rad.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/product_images/swiss.jpeg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/search.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view_category.html" afterPath="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/data.json" afterPath="$PROJECT_DIR$/t_w_d_p/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js" afterPath="$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html" afterPath="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/urls.py" afterPath="$PROJECT_DIR$/t_w_d_p/rango/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/views.py" afterPath="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
     </list>
     <ignored path="pythonacademia.iws" />
@@ -34,8 +26,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="109" lean-forward="false" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+            <state relative-caret-position="342">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -46,8 +38,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="110" column="77" lean-forward="false" selection-start-line="110" selection-start-column="77" selection-end-line="110" selection-end-column="77" />
+            <state relative-caret-position="-391">
+              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
                 <element signature="e#617#776#0" expanded="false" />
@@ -55,16 +47,25 @@
                 <element signature="e#2245#2604#0" expanded="false" />
                 <element signature="e#2633#2862#0" expanded="false" />
                 <element signature="e#2894#3088#0" expanded="false" />
-                <element signature="e#3352#4635#0" expanded="false" />
-                <element signature="e#4666#5129#0" expanded="false" />
-                <element signature="e#5156#5383#0" expanded="false" />
-                <element signature="e#5432#5700#0" expanded="false" />
-                <element signature="e#5742#5910#0" expanded="false" />
-                <element signature="e#5958#6751#0" expanded="false" />
-                <element signature="e#6781#7750#0" expanded="false" />
-                <element signature="e#7782#8636#0" expanded="false" />
-                <element signature="e#8685#8748#0" expanded="false" />
+                <element signature="e#3352#4589#0" expanded="false" />
+                <element signature="e#5110#5337#0" expanded="false" />
+                <element signature="e#5386#5654#0" expanded="false" />
+                <element signature="e#5696#5864#0" expanded="false" />
+                <element signature="e#5912#6705#0" expanded="false" />
+                <element signature="e#6735#7704#0" expanded="false" />
+                <element signature="e#7736#8590#0" expanded="false" />
+                <element signature="e#8639#8702#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-967">
+              <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +73,7 @@
       <file leaf-file-name="list_view.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="666">
               <caret line="37" column="114" lean-forward="false" selection-start-line="37" selection-start-column="114" selection-end-line="37" selection-end-column="114" />
               <folding />
             </state>
@@ -82,7 +83,7 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="126">
               <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="49" />
               <folding />
             </state>
@@ -96,19 +97,16 @@
               <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
                 <element signature="e#0#3921#0" expanded="false" />
-                <element signature="e#0#3921#0" expanded="false" />
-                <element signature="e#0#3921#0" expanded="false" />
-                <element signature="e#0#3921#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state relative-caret-position="288">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -190,15 +188,16 @@
         <option value="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/edit_product.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/search.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html" />
-        <option value="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/urls.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/data.json" />
+        <option value="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1366" />
     <option name="y" value="24" />
     <option name="width" value="1366" />
     <option name="height" value="744" />
@@ -221,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -262,116 +260,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="t_w_d_p" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t_w_d_p" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t_w_d_p" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonacademia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t_w_d_p" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rango" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -671,13 +566,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="1366" y="24" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19657484" sideWeight="0.49384615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.4940476" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22272047" sideWeight="0.47584188" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2260062" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7321981" sideWeight="0.48214287" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430769" sideWeight="0.48214287" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -689,6 +583,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23839009" sideWeight="0.5744048" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2260062" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3323077" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -760,12 +655,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/t_w_d_p/rango/views.py</url>
-          <line>147</line>
+          <line>146</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/t_w_d_p/rango/views.py</url>
-          <line>132</line>
+          <line>131</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -775,7 +670,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/t_w_d_p/rango/views.py</url>
-          <line>200</line>
+          <line>199</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -789,6 +684,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="109" lean-forward="false" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#617#776#0" expanded="false" />
+            <element signature="e#827#977#0" expanded="false" />
+            <element signature="e#2245#2604#0" expanded="false" />
+            <element signature="e#2633#2862#0" expanded="false" />
+            <element signature="e#2894#3088#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="114" lean-forward="false" selection-start-line="37" selection-start-column="114" selection-end-line="37" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#3921#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -810,15 +772,14 @@
             <element signature="e#2245#2604#0" expanded="false" />
             <element signature="e#2633#2862#0" expanded="false" />
             <element signature="e#2894#3088#0" expanded="false" />
-            <element signature="e#3352#4635#0" expanded="false" />
-            <element signature="e#4666#5129#0" expanded="false" />
-            <element signature="e#5156#5383#0" expanded="false" />
-            <element signature="e#5432#5700#0" expanded="false" />
-            <element signature="e#5742#5910#0" expanded="false" />
-            <element signature="e#5958#6751#0" expanded="false" />
-            <element signature="e#6781#7750#0" expanded="false" />
-            <element signature="e#7782#8636#0" expanded="false" />
-            <element signature="e#8685#8748#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -827,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,15 +820,14 @@
             <element signature="e#2245#2604#0" expanded="false" />
             <element signature="e#2633#2862#0" expanded="false" />
             <element signature="e#2894#3088#0" expanded="false" />
-            <element signature="e#3352#4635#0" expanded="false" />
-            <element signature="e#4666#5129#0" expanded="false" />
-            <element signature="e#5156#5383#0" expanded="false" />
-            <element signature="e#5432#5700#0" expanded="false" />
-            <element signature="e#5742#5910#0" expanded="false" />
-            <element signature="e#5958#6751#0" expanded="false" />
-            <element signature="e#6781#7750#0" expanded="false" />
-            <element signature="e#7782#8636#0" expanded="false" />
-            <element signature="e#8685#8748#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -877,7 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,15 +868,14 @@
             <element signature="e#2245#2604#0" expanded="false" />
             <element signature="e#2633#2862#0" expanded="false" />
             <element signature="e#2894#3088#0" expanded="false" />
-            <element signature="e#3352#4635#0" expanded="false" />
-            <element signature="e#4666#5129#0" expanded="false" />
-            <element signature="e#5156#5383#0" expanded="false" />
-            <element signature="e#5432#5700#0" expanded="false" />
-            <element signature="e#5742#5910#0" expanded="false" />
-            <element signature="e#5958#6751#0" expanded="false" />
-            <element signature="e#6781#7750#0" expanded="false" />
-            <element signature="e#7782#8636#0" expanded="false" />
-            <element signature="e#8685#8748#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -927,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,15 +916,14 @@
             <element signature="e#2245#2604#0" expanded="false" />
             <element signature="e#2633#2862#0" expanded="false" />
             <element signature="e#2894#3088#0" expanded="false" />
-            <element signature="e#3352#4635#0" expanded="false" />
-            <element signature="e#4666#5129#0" expanded="false" />
-            <element signature="e#5156#5383#0" expanded="false" />
-            <element signature="e#5432#5700#0" expanded="false" />
-            <element signature="e#5742#5910#0" expanded="false" />
-            <element signature="e#5958#6751#0" expanded="false" />
-            <element signature="e#6781#7750#0" expanded="false" />
-            <element signature="e#7782#8636#0" expanded="false" />
-            <element signature="e#8685#8748#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -977,7 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,14 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1001,77 +947,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-594">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view_category.html">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view_category.html" />
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/search.html" />
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#3921#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="666">
           <caret line="37" column="114" lean-forward="false" selection-start-line="37" selection-start-column="114" selection-end-line="37" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="109" lean-forward="false" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+        <state relative-caret-position="342">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="110" column="77" lean-forward="false" selection-start-line="110" selection-start-column="77" selection-end-line="110" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <element signature="e#617#776#0" expanded="false" />
-            <element signature="e#827#977#0" expanded="false" />
-            <element signature="e#2245#2604#0" expanded="false" />
-            <element signature="e#2633#2862#0" expanded="false" />
-            <element signature="e#2894#3088#0" expanded="false" />
-            <element signature="e#3352#4635#0" expanded="false" />
-            <element signature="e#4666#5129#0" expanded="false" />
-            <element signature="e#5156#5383#0" expanded="false" />
-            <element signature="e#5432#5700#0" expanded="false" />
-            <element signature="e#5742#5910#0" expanded="false" />
-            <element signature="e#5958#6751#0" expanded="false" />
-            <element signature="e#6781#7750#0" expanded="false" />
-            <element signature="e#7782#8636#0" expanded="false" />
-            <element signature="e#8685#8748#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.json">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/grid_view.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1079,23 +989,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#3921#0" expanded="false" />
-            <element signature="e#0#3921#0" expanded="false" />
-            <element signature="e#0#3921#0" expanded="false" />
-            <element signature="e#0#3921#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="34" selection-end-line="103" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#617#776#0" expanded="false" />
+            <element signature="e#827#977#0" expanded="false" />
+            <element signature="e#2245#2604#0" expanded="false" />
+            <element signature="e#2633#2862#0" expanded="false" />
+            <element signature="e#2894#3088#0" expanded="false" />
+            <element signature="e#3352#4589#0" expanded="false" />
+            <element signature="e#5110#5337#0" expanded="false" />
+            <element signature="e#5386#5654#0" expanded="false" />
+            <element signature="e#5696#5864#0" expanded="false" />
+            <element signature="e#5912#6705#0" expanded="false" />
+            <element signature="e#6735#7704#0" expanded="false" />
+            <element signature="e#7736#8590#0" expanded="false" />
+            <element signature="e#8639#8702#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-967">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
           <folding />
         </state>
       </provider>

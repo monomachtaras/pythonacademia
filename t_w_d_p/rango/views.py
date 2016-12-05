@@ -89,7 +89,6 @@ def list_view(request, category_id='', page=None, search_info=''):
         if category_id: # if we specify category
             products_all = Product.objects.filter(category=category_id)
         elif search_info:
-            print('search_info ',search_info)
             products_all = Product.objects.filter(name__icontains=search_info).order_by('price', 'name').reverse()
         else:
             products_all = Product.objects.all().order_by('price', 'name').reverse()
