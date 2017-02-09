@@ -9,3 +9,6 @@ class PageAdmin(admin.ModelAdmin):
 admin.site.register(Product, PageAdmin)
 admin.site.register(Category)
 admin.site.register(UserProfile)
+
+
+

@@ -22,6 +22,7 @@ from django.conf.urls.static import static
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^rango/', include('rango.urls')),
+    url(r'^bingo/', include('bingo.urls')),
 
 ]
 

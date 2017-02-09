@@ -53,10 +53,10 @@ def delete_product(request):
 #         return render(request, 'rango/edit_product.html', {'form': pform, 'edited_product': edited_product,
 #                                                            'product': product}, context)
 
-class ProductUpdateView(UpdateView): # update product based on ClassBasedViews
+class ProductUpdateView(UpdateView):  # update product based on ClassBasedViews
     model = Product
     template_name = 'rango/edit_product.html'
-    fields = [x for x in Product().__dict__.keys() if not x.startswith('_')] # exclude fields i dont need
+    fields = [x for x in Product().__dict__.keys() if not x.startswith('_')]  # exclude fields i dont need
     for x in range(len(fields)):
         if fields[x].__contains__('_'):
             fields[x] = fields[x][:fields[x].find('_')] # convert category_id to category

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+	<link href="{% static 'stylebingo.css' %}" rel="stylesheet"/>
+</head>
+
+<body>
+<div class="span9">
+		<div class="well well-small">
+			{% if number_list %}
+			{% for number in number_list %}
+			<div class="row-fluid">
+
+				{% for image in number.images.all %}
+				<div class="span2">
+					{% with '/girls_images/'|add:image.name as image_static %}
+					<img src="{% static image_static %}" alt="" >
+					{% endwith %}
+				</div>
+				{% endfor %}
+
+				<div class="span6">
+					<h5>{{ number.number }} </h5>
+					<p>
+                        {{ number.ages.all }} {{ number.cities.all }}
+					</p>
+				</div>
+				<div class="span4 alignR">
+				<form class="form-horizontal qtyFrm">
+				<h3> </h3>
+				<label class="checkbox">
+					<input type="checkbox">  Adds product to compair
+				</label><br>
+				<div class="btn-group">
+				  <a href="#" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+				  <a href="#" class="shopBtn">VIEW</a>
+				 </div>
+					</form>
+				</div>
+			</div>
+			<hr class="soften">
+
+            {% endfor %}
+
+
+			{% else %}
+			<h3>No goods here yet. Sorry for now!</h3>
+			{% endif %}
+
+		</div>
+	</div>
+</body>
+</html>

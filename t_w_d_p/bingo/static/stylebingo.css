@@ -1,0 +1,14 @@
+{% load static %}
+body{background:url(assets/img/white_leather.png) repeat 0 0; }
+#indent {background:url(assets/img/white_leather.png) repeat 0 0; }
+.span2 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 1em;
+}
+img {
+    width: 100%; /* or any custom size */
+    height: 100%;
+    object-fit: contain;
+}
