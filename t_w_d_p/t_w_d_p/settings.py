@@ -78,9 +78,9 @@ WSGI_APPLICATION = 't_w_d_p.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        # 'ENGINE': 'mysql.connector.django',
-        'NAME': 'rango',
+        #'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'mysql.connector.django',
+        'NAME': 'app',
         'USER': 'root',
         'PASSWORD': '110889',
         'HOST': '127.0.0.1',   # Or an IP Address that your DB is hosted on
@@ -94,6 +94,10 @@ DATABASES = {
     #     'PASSWORD': '110889',
     #     'HOST': '127.0.0.1',
     #     'PORT': '5432',
+    # }
+    # 'default': {
+    # 'ENGINE': 'django.db.backends.sqlite3',
+    # 'NAME': 'rango',
     # }
 }
 
@@ -128,7 +132,7 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)

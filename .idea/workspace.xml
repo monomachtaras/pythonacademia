@@ -2,68 +2,886 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94c285a-bff5-4aa2-a500-1a2b4667d6e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/product_images/images2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/numbers.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/logger" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0002_auto_20170203_1518.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0003_auto_20170203_1727.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0004_auto_20170203_1800.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0005_auto_20170203_1804.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0006_auto_20170203_1925.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0007_auto_20170203_1930.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0008_auto_20170204_2029.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0009_auto_20170204_2036.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0010_auto_20170204_2134.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0011_remove_images_name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0012_images_format.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0013_auto_20170207_2023.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0014_auto_20170209_1902.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0015_auto_20170209_1903.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0016_auto_20170209_1914.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0017_auto_20170209_1915.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0018_auto_20170209_1921.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0019_auto_20170209_1922.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0020_auto_20170209_1925.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0021_remove_images_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0022_auto_20170209_1928.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0023_auto_20170209_1929.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0024_auto_20170209_1929.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0025_auto_20170209_1943.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0026_auto_20170209_1944.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0027_auto_20170209_2228.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0028_remove_timedate_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0029_timedate_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0030_remove_timedate_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0031_auto_20170209_2234.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0032_auto_20170209_2235.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/parser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/stylebingo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/about_us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/log.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/t_w_d_p/log1.log" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0002_auto_20170203_1518.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0003_auto_20170203_1727.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0004_auto_20170203_1800.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0005_auto_20170203_1804.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0006_auto_20170203_1925.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0007_auto_20170203_1930.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0008_auto_20170204_2029.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0009_auto_20170204_2036.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0010_auto_20170204_2134.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0011_remove_images_name.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0012_images_format.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0013_auto_20170207_2023.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0014_auto_20170209_1902.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0015_auto_20170209_1903.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0016_auto_20170209_1914.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0017_auto_20170209_1915.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0018_auto_20170209_1921.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0019_auto_20170209_1922.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0020_auto_20170209_1925.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0021_remove_images_time.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0022_auto_20170209_1928.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0023_auto_20170209_1929.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0024_auto_20170209_1929.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0025_auto_20170209_1943.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0026_auto_20170209_1944.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0027_auto_20170209_2228.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0028_remove_timedate_time.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0029_timedate_time.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0030_remove_timedate_time.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0031_auto_20170209_2234.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/migrations/0032_auto_20170209_2235.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/11.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/113.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/12.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/126.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/127.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/134.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/140.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/142.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/144.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/147.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/148.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/150.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/159.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/166.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/168.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/169.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/177.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/178.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/211.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/228.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/238.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/266.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/267.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/272.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/274.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/276.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/277.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/278.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/282.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/285.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/286.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/288.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/289.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/29.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/290.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/291.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/292.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/294.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/295.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/296.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/297.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/298.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/301.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/302.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/305.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/308.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/309.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/312.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/313.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/314.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/316.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/317.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/318.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/319.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/320.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/321.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/322.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/323.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/324.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/325.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/326.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/327.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/328.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/329.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/330.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/331.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/332.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/333.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/334.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/335.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/336.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/337.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/338.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/339.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/340.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/341.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/342.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/343.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/345.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/346.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/347.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/348.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/349.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/350.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/351.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/352.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/353.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/354.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/355.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/356.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/357.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/358.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/359.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/360.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/361.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/363.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/364.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/365.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/366.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/367.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/368.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/369.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/370.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/371.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/372.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/373.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/375.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/376.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/377.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/378.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/379.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/380.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/382.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/383.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/384.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/385.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/386.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/387.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/388.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/389.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/390.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/391.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/392.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/393.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/394.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/395.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/396.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/397.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/398.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/399.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/400.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/401.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/402.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/403.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/405.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/406.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/407.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/408.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/409.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/410.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/411.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/412.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/413.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/414.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/415.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/416.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/417.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/418.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/419.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/420.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/421.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/422.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/423.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/424.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/425.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/426.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/427.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/428.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/429.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/430.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/431.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/432.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/433.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/434.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/435.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/436.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/437.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/438.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/439.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/440.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/441.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/442.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/443.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/444.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/445.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/446.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/447.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/448.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/449.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/450.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/451.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/452.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/453.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/454.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/455.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/456.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/457.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/458.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/459.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/460.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/461.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/462.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/463.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/464.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/465.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/466.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/467.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/468.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/469.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/470.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/471.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/472.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/473.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/474.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/475.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/476.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/477.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/478.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/479.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/480.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/481.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/482.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/483.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/484.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/485.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/486.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/487.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/488.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/489.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/490.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/491.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/492.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/493.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/494.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/495.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/496.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/497.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/498.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/499.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/501.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/502.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/503.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/504.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/505.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/506.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/507.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/508.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/509.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/510.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/511.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/512.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/514.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/517.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/518.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/519.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/520.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/521.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/522.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/523.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/525.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/526.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/528.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/529.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/530.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/531.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/532.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/533.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/534.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/535.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/536.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/537.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/538.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/539.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/541.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/543.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/546.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/547.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/548.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/549.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/55.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/550.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/551.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/552.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/553.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/554.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/555.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/556.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/557.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/558.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/559.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/560.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/561.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/563.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/564.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/565.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/566.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/567.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/568.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/569.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/570.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/571.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/572.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/573.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/574.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/575.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/576.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/577.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/578.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/579.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/580.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/581.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/582.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/583.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/584.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/585.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/586.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/587.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/588.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/589.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/590.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/591.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/592.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/593.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/594.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/595.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/596.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/597.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/598.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/601.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/602.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/603.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/604.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/605.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/606.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/607.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/608.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/609.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/610.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/612.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/613.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/614.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/615.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/616.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/617.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/618.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/619.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/620.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/622.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/623.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/624.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/625.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/626.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/627.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/628.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/629.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/630.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/631.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/632.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/633.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/634.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/636.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/637.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/638.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/639.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/640.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/641.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/642.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/643.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/644.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/645.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/646.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/647.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/648.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/649.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/650.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/651.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/652.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/653.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/654.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/655.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/656.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/657.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/658.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/659.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/661.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/662.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/663.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/664.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/665.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/666.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/667.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/668.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/669.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/670.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/671.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/672.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/673.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/674.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/675.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/676.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/677.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/678.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/679.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/680.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/681.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/683.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/684.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/685.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/686.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/687.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/688.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/689.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/690.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/691.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/692.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/693.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/694.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/695.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/696.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/697.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/698.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/699.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/700.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/701.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/702.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/703.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/705.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/706.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/707.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/708.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/709.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/710.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/712.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/713.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/714.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/715.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/716.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/718.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/72.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/721.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/722.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/723.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/724.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/725.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/726.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/727.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/728.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/729.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/730.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/731.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/732.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/733.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/734.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/735.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/736.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/737.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/738.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/739.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/740.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/741.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/742.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/743.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/744.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/745.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/746.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/747.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/748.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/749.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/751.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/752.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/753.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/754.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/755.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/756.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/757.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/758.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/759.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/760.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/761.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/762.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/763.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/764.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/765.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/766.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/767.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/768.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/769.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/770.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/771.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/772.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/773.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/774.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/775.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/776.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/777.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/778.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/779.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/780.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/781.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/782.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/783.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/784.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/785.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/786.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/787.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/788.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/791.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/792.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/793.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/794.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/795.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/796.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/797.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/798.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/799.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/801.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/802.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/803.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/804.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/805.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/806.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/807.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/808.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/809.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/810.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/811.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/812.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/813.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/814.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/815.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/816.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/817.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/818.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/819.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/820.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/821.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/822.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/823.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/824.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/825.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/99.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/log.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/log1.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0002_auto_20161016_0709.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0003_auto_20161016_0735.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0004_auto_20161019_1040.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0005_auto_20161021_1054.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0006_remove_product_category.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0007_product_category.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0008_auto_20161021_1127.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0009_auto_20161103_2119.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0010_auto_20161125_1605.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0011_auto_20161129_1732.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/t_w_d_p/rango/migrations/0012_auto_20161201_1959.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/10.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/100.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/102.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/102.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/103.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/103.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/104.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/104.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/105.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/105.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/107.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/107.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/109.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/109.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/110.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/110.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/111.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/111.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/112.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/112.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/114.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/114.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/115.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/115.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/116.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/116.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/117.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/117.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/118.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/118.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/119.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/119.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/120.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/121.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/121.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/122.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/122.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/123.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/123.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/124.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/124.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/125.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/125.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/128.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/128.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/129.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/129.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/13.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/130.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/130.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/131.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/131.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/132.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/132.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/135.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/135.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/136.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/136.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/137.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/137.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/138.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/138.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/139.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/139.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/141.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/141.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/143.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/143.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/145.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/145.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/146.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/146.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/149.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/149.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/15.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/151.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/151.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/153.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/153.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/154.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/154.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/155.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/155.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/156.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/156.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/157.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/157.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/158.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/158.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/16.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/160.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/161.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/161.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/162.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/162.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/163.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/163.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/164.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/164.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/165.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/165.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/167.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/167.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/17.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/170.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/170.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/171.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/171.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/173.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/173.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/174.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/174.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/175.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/175.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/176.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/176.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/179.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/179.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/18.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/180.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/181.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/181.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/182.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/182.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/183.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/183.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/184.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/184.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/185.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/185.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/186.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/186.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/187.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/187.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/188.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/189.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/189.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/19.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/190.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/190.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/191.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/191.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/192.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/192.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/193.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/193.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/194.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/194.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/195.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/195.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/197.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/197.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/198.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/198.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/199.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/199.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/2.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/20.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/200.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/200.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/201.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/201.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/202.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/202.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/203.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/203.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/205.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/205.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/206.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/206.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/207.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/207.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/208.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/208.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/209.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/209.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/210.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/210.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/212.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/212.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/213.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/213.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/214.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/214.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/215.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/215.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/216.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/216.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/217.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/217.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/218.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/218.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/219.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/219.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/22.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/220.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/220.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/221.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/221.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/222.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/222.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/223.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/223.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/224.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/224.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/226.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/226.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/227.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/227.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/229.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/229.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/23.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/230.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/230.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/231.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/231.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/232.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/232.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/233.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/233.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/234.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/234.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/235.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/235.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/236.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/236.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/237.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/237.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/239.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/239.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/24.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/240.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/240.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/241.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/241.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/242.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/243.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/243.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/244.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/244.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/245.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/245.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/246.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/246.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/247.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/247.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/248.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/248.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/249.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/249.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/25.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/250.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/250.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/251.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/251.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/252.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/252.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/253.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/253.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/254.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/254.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/255.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/255.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/256.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/256.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/257.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/257.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/258.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/258.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/259.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/259.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/260.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/260.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/261.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/261.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/262.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/262.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/263.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/263.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/264.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/264.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/265.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/265.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/268.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/268.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/269.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/269.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/27.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/270.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/270.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/271.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/271.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/273.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/273.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/28.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/3.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/30.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/31.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/32.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/33.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/34.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/36.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/37.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/38.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/39.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/4.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/40.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/41.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/42.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/43.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/44.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/45.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/46.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/47.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/49.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/5.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/50.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/51.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/52.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/53.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/54.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/56.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/57.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/58.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/59.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/6.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/60.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/61.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/61.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/62.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/62.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/63.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/63.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/64.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/64.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/65.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/65.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/66.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/66.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/67.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/67.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/69.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/69.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/7.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/70.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/70.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/71.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/71.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/73.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/73.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/74.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/74.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/75.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/75.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/76.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/76.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/77.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/77.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/78.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/78.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/79.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/79.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/8.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/80.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/80.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/81.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/81.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/83.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/83.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/84.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/84.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/85.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/86.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/86.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/87.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/87.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/88.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/88.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/9.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/90.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/91.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/91.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/92.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/92.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/93.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/93.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/94.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/94.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/95.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/95.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/96.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/96.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/97.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/97.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/98.jpg" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/static/girls_images/98.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pythonacademia.iml" afterPath="$PROJECT_DIR$/.idea/pythonacademia.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.py" afterPath="$PROJECT_DIR$/first.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/admin.py" afterPath="$PROJECT_DIR$/t_w_d_p/rango/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/models.py" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/parser.py" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/templates/basebingo.html" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/basebingo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/templates/detail_view.html" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/detail_view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/urls.py" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/bingo/views.py" afterPath="$PROJECT_DIR$/t_w_d_p/bingo/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/rango/views.py" afterPath="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py" afterPath="$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t_w_d_p/t_w_d_p/urls.py" afterPath="$PROJECT_DIR$/t_w_d_p/t_w_d_p/urls.py" />
     </list>
     <ignored path="pythonacademia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,45 +904,66 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="738">
+              <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <element signature="e#1244#1541#0" expanded="false" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
+      <file leaf-file-name="parser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="96" column="7" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="96" selection-end-column="7" />
+            <state relative-caret-position="18">
+              <caret line="144" column="35" lean-forward="false" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#3347#4117#0" expanded="false" />
+                <element signature="e#5994#6026#0" expanded="false" />
+                <element signature="e#6072#6232#0" expanded="false" />
+                <element signature="e#6290#7370#0" expanded="false" />
+                <element signature="e#7422#7636#0" expanded="false" />
+                <element signature="e#7664#7724#0" expanded="false" />
+                <element signature="e#7756#8156#0" expanded="false" />
+                <element signature="e#8175#8434#0" expanded="false" />
+                <element signature="e#8481#9337#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail_view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/detail_view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="68" />
+            <state relative-caret-position="342">
+              <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding>
-                <element signature="e#62#419#0" expanded="false" />
-                <element signature="e#452#749#0" expanded="false" />
-                <element signature="e#982#1424#0" expanded="false" />
+                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#78#435#0" expanded="false" />
+                <element signature="e#468#765#0" expanded="false" />
+                <element signature="e#997#1435#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t_w_d_p/manage.py">
+      <file leaf-file-name="list_view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1944">
+              <caret line="108" column="28" lean-forward="false" selection-start-line="101" selection-start-column="16" selection-end-line="108" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -134,10 +973,8 @@
         <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,8 +984,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -161,6 +998,10 @@
       <find>contacts</find>
       <find>list</find>
       <find>spa</find>
+      <find>form</find>
+      <find>lis</find>
+      <find>logger_</find>
+      <find>com</find>
     </findStrings>
     <replaceStrings>
       <replace>productLogo</replace>
@@ -173,10 +1014,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/test.html" />
-        <option value="$PROJECT_DIR$/tango_with_django_project/rango/forms.py" />
-        <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/edit_product.html" />
-        <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/add_product.html" />
         <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/list_view_category.html" />
         <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/my_account.html" />
         <option value="$PROJECT_DIR$/tango_with_django_project/rango/templates/rango/base.html" />
@@ -205,11 +1042,8 @@
         <option value="$PROJECT_DIR$/second.py" />
         <option value="$PROJECT_DIR$/search.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/urls.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/t_w_d_p/urls.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/about_us.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/rango/admin.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/admin.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/new.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/tests.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/base.html" />
@@ -217,20 +1051,28 @@
         <option value="$PROJECT_DIR$/t_w_d_p/log.log" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/rt.html" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/static/stylebingo.css" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/urls.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/parser.py" />
         <option value="$PROJECT_DIR$/first.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/bingo/views.py" />
-        <option value="$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/needtodelete.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/admin.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/logs/log.log" />
+        <option value="$PROJECT_DIR$/t_w_d_p/rango/views.py" />
         <option value="$PROJECT_DIR$/t_w_d_p/bingo/models.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/parser.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/basebingo.html" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/about_us.html" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/views.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/urls.py" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html" />
+        <option value="$PROJECT_DIR$/t_w_d_p/bingo/templates/detail_view.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-716" />
-    <option name="width" value="1366" />
-    <option name="height" value="716" />
+    <option name="x" value="43" />
+    <option name="y" value="61" />
+    <option name="width" value="1265" />
+    <option name="height" value="663" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -276,6 +1118,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -302,14 +1145,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonacademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonacademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t_w_d_p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t_w_d_p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonacademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonacademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t_w_d_p" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bingo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bingo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.splitter.proportion" value="0.2623574" />
   </component>
@@ -652,16 +1530,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-716" width="1366" height="716" extended-state="0" />
-    <editor active="true" />
+    <frame x="43" y="61" width="1265" height="663" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28369322" sideWeight="0.49384615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19806403" sideWeight="0.49384615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.4940476" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5226537" sideWeight="0.47877884" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.501548" sideWeight="0.48175725" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30495358" sideWeight="0.48214287" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430769" sideWeight="0.48214287" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18608414" sideWeight="0.52122116" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36283186" sideWeight="0.5182427" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26190478" sideWeight="0.5061538" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -669,28 +1547,28 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3374613" sideWeight="0.5744048" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34055728" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33900928" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27708977" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2879257" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.4940476" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22272047" sideWeight="0.47584188" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4514563" sideWeight="0.47877884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30495358" sideWeight="0.48214287" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430769" sideWeight="0.48214287" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3374613" sideWeight="0.5744048" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27244583" sideWeight="0.5241581" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21370067" sideWeight="0.49384615" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.52122116" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15711094" sideWeight="0.49384615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2260062" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3398058" sideWeight="0.48735118" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26190478" sideWeight="0.5061538" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3323077" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45307443" sideWeight="0.49702382" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
@@ -760,92 +1638,22 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/t_w_d_p/rango/views.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/t_w_d_p/bingo/urls.py</url>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="26" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
-          <folding>
-            <element signature="e#617#776#0" expanded="false" />
-            <element signature="e#827#977#0" expanded="false" />
-            <element signature="e#2246#2606#0" expanded="false" />
-            <element signature="e#2635#2864#0" expanded="false" />
-            <element signature="e#2896#3090#0" expanded="false" />
-            <element signature="e#3354#4591#0" expanded="false" />
-            <element signature="e#4622#5085#0" expanded="false" />
-            <element signature="e#5388#5656#0" expanded="false" />
-            <element signature="e#5698#5866#0" expanded="false" />
-            <element signature="e#5914#6707#0" expanded="false" />
-            <element signature="e#6737#7706#0" expanded="false" />
-            <element signature="e#7738#8592#0" expanded="false" />
-            <element signature="e#8641#8704#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/product_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
-          <folding>
-            <element signature="e#617#776#0" expanded="false" />
-            <element signature="e#827#977#0" expanded="false" />
-            <element signature="e#2246#2606#0" expanded="false" />
-            <element signature="e#2635#2864#0" expanded="false" />
-            <element signature="e#2896#3090#0" expanded="false" />
-            <element signature="e#3354#4591#0" expanded="false" />
-            <element signature="e#4622#5085#0" expanded="false" />
-            <element signature="e#5388#5656#0" expanded="false" />
-            <element signature="e#5698#5866#0" expanded="false" />
-            <element signature="e#5914#6707#0" expanded="false" />
-            <element signature="e#6737#7706#0" expanded="false" />
-            <element signature="e#7738#8592#0" expanded="false" />
-            <element signature="e#8641#8704#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/product_details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -877,13 +1685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -891,38 +1692,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/about_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -947,60 +1720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/second.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="319" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="15" column="77" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#617#776#0" expanded="false" />
-            <element signature="e#827#977#0" expanded="false" />
-            <element signature="e#2246#2606#0" expanded="false" />
-            <element signature="e#2635#2864#0" expanded="false" />
-            <element signature="e#2896#3090#0" expanded="false" />
-            <element signature="e#3354#4591#0" expanded="false" />
-            <element signature="e#4622#5085#0" expanded="false" />
-            <element signature="e#5388#5656#0" expanded="false" />
-            <element signature="e#5698#5866#0" expanded="false" />
-            <element signature="e#5914#6707#0" expanded="false" />
-            <element signature="e#6737#7706#0" expanded="false" />
-            <element signature="e#7738#8592#0" expanded="false" />
-            <element signature="e#8641#8704#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1015,20 +1738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1053,39 +1762,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/logger">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/log.log" />
     <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/rt.html" />
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="26" column="44" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="12" column="60" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -1096,72 +1778,236 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/static/stylebingo.css">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/log1.log" />
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/parser.py">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/static/stylebingo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="117" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="114" column="16" lean-forward="false" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/logs/log.log.2017-02-08">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/needtodelete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/static/assets/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/logger">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/urls.py">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/logs/log.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="-4212">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/templates/rango/list_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="96" column="7" lean-forward="false" selection-start-line="89" selection-start-column="3" selection-end-line="96" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="128">
+          <caret line="134" column="14" lean-forward="false" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/views.py">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="-1314">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/basebingo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/t_w_d_p/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="135" column="34" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <element signature="e#1244#1541#0" expanded="false" />
+            <element signature="e#617#776#0" expanded="false" />
+            <element signature="e#827#977#0" expanded="false" />
+            <element signature="e#2246#2606#0" expanded="false" />
+            <element signature="e#2890#3084#0" expanded="false" />
+            <element signature="e#3348#4585#0" expanded="false" />
+            <element signature="e#4616#5079#0" expanded="false" />
+            <element signature="e#5692#5860#0" expanded="false" />
+            <element signature="e#5908#6701#0" expanded="false" />
+            <element signature="e#6731#7700#0" expanded="false" />
+            <element signature="e#7732#8586#0" expanded="false" />
+            <element signature="e#8635#8698#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t_w_d_p/manage.py">
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/rango/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/list_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="108" column="28" lean-forward="false" selection-start-line="101" selection-start-column="16" selection-end-line="108" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="68" />
+        <state relative-caret-position="342">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding>
-            <element signature="e#62#419#0" expanded="false" />
-            <element signature="e#452#749#0" expanded="false" />
-            <element signature="e#982#1424#0" expanded="false" />
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#78#435#0" expanded="false" />
+            <element signature="e#468#765#0" expanded="false" />
+            <element signature="e#997#1435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/templates/detail_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t_w_d_p/bingo/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="144" column="35" lean-forward="false" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#3347#4117#0" expanded="false" />
+            <element signature="e#5994#6026#0" expanded="false" />
+            <element signature="e#6072#6232#0" expanded="false" />
+            <element signature="e#6290#7370#0" expanded="false" />
+            <element signature="e#7422#7636#0" expanded="false" />
+            <element signature="e#7664#7724#0" expanded="false" />
+            <element signature="e#7756#8156#0" expanded="false" />
+            <element signature="e#8175#8434#0" expanded="false" />
+            <element signature="e#8481#9337#0" expanded="false" />
           </folding>
         </state>
       </provider>

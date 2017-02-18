@@ -38,7 +38,7 @@ def get_logger():
 
 def get_data_with_cities(htmlf):
 
-    html = urllib.urlopen(htmlf).read()
+    html = urllib.request.urlopen(htmlf).read()
 
     soup = BeautifulSoup(html, 'html.parser')
     l = soup.find_all('a', {'class': 'link'})
@@ -73,10 +73,13 @@ def write_into_database():
             logger_.info(' this girl is on fire '+str(list_with_info))
             if list_with_info:
                 print(list_with_info)
-                number = get_number_object_from_number(list_with_info[0])
-                number.cities.add(get_city_object_from_city(list_with_info[1]))
-                number.ages.add(get_age_object_from_age(list_with_info[2]))
-                number.save()
+                try:
+                    number = get_number_object_from_number(list_with_info[0])
+                    number.cities.add(get_city_object_from_city(list_with_info[1]))
+                    number.ages.add(get_age_object_from_age(list_with_info[2]))
+                    number.save()
+                except Exception as e:
+                    logger_.error('inside write into datebase'+e.__str__())
 
                 # func mse takes much resources so use that func only with these conditions
                 if len(list_with_info) > 4 \
@@ -205,7 +208,7 @@ def get_image_object_from_image(info, city, time):
     static_path = djangoSettings.STATIC_ROOT +'/bingo/static'
     path = static_path + cut_info  # creating temp image
     file = open(path, 'wb')
-    file.write(urllib.urlopen('http://' + str(city) + '.ukrgo.com' + info).read())
+    file.write(urllib.request.urlopen('http://' + str(city) + '.ukrgo.com' + info).read())
     file.close()
 
     images = list(Images.objects.all())
@@ -281,7 +284,7 @@ def first_method():
     time_date.save()
 
     file = open("/home/ubuntu/PycharmProjects/pythonacademia/t_w_d_p/bingo/static/girls_images/1.png", 'wb')
-    file.write(urllib.urlopen('http://ternopol.ukrgo.com/pictures/ukrgo_id_15342569.png').read())
+    file.write(urllib.request.urlopen('http://ternopol.ukrgo.com/pictures/ukrgo_id_15342569.png').read())
     file.close()
     newim = Images()
     newim.name = '1.png'

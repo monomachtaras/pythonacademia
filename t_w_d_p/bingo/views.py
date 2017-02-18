@@ -8,26 +8,20 @@ from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.template import RequestContext
 from .models import Number, Age, TimeDate, City, Images
 from django.db.models import Count, Max
-from django.views.generic import ListView
+from django.views.generic import ListView, DetailView
 from . import needtodelete
-from .parser import write_into_database, first_method
+from .parser import write_into_database, first_method, get_data_with_cities
 
 logger = logging.getLogger(__name__)
 
 def new(request, page=None):
     #  if there are no cities
-    # parser.get_data_with_cities('http://ukrgo.com/view_subsection.php?id_subsection=146')
-    #write_into_database()
-    first_method()
-    #parser.first_method()
+    # get_data_with_cities('http://ukrgo.com/view_subsection.php?id_subsection=146')
+    # write_into_database()
 
-    numbers = Number.objects.annotate(countcities=Count('cities'), last_time=Max('timedate'),
-                                      countages=Count('ages')).filter(countcities__lt=2,
+    numbers = Number.objects.annotate(countcities=Count('cities', distinct=True), last_time=Max('timedate'),
+                                      countages=Count('ages', distinct=True)).filter(countcities__lt=2,
                                                                       countages__lt=2).order_by('last_time').reverse()
-
-    print(len(numbers))
-    print(TimeDate.objects.all().count())
-    print(page)
 
     paginator = Paginator(numbers, 10)
     var = request.GET.get('page')
@@ -47,9 +41,14 @@ def new(request, page=None):
 
 
 class NumberListView(ListView):
-    queryset = Number.objects.annotate(countcities=Count('cities'), countages=Count('ages')).filter(countcities__lt=2,
-                                                                                                    countages__lt=2,
-                                                                                                    )
+    queryset = Number.objects.annotate(countcities=Count('cities'), countages=Count('ages'),
+                                       last_time=Max('timedate')).filter(countcities__lt=2, countages__lt=2)\
+        .order_by('last_time')
     template_name = 'list_view.html'
     context_object_name = 'number_list'
 
+
+class DetailNumberView(DetailView):
+    model = Number
+    template_name = 'detail_view.html'
+    context_object_name = 'number'

@@ -1,0 +1,1267 @@
+2017-02-15 18:56:15,988 - bingo.parser - INFO -  city is running kiev
+2017-02-15 18:56:16,744 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:16,744 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540319.html
+2017-02-15 18:56:16,876 - bingo.parser - INFO -  error into unicodeerror Raised when HTTP error occurs, but also acts like non-error return
+2017-02-15 18:56:16,876 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:16,876 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:16,876 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540374.html
+2017-02-15 18:56:17,252 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:10<br>
+<b>Город:</b> Киев (Деснянский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:17,253 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:17,253 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:17,253 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540354.html
+2017-02-15 18:56:17,619 - bingo.parser - ERROR -  number problem [<span style="color: #292929; font-size: 13px;">Вход:</span>, <span style="color: #484849; font-size: 15px; font-weight: bold; margin-left: 0px;">Поиск по объявлениям:</span>, <span style="color: #4658e1; font-size: 17px; padding-left: 10px;">Связаться с автором объявления:</span>, <span class="title_text_grey" style="padding-left: 10px;">Ваше имя:</span>, <span class="title_text_grey" style="padding-left: 10px;">Ваш e-mail*:</span>, <span class="title_text_grey" style="padding-left: 10px;">Текст письма*:</span>, <span id="count_symbol_text_mail" style="color: #309c22;">1000</span>, <span class="title_text_grey" style="padding-left: 10px;">Антиспам*:</span>, <span id="main-rubrics">Главные рубрики UkrGo.COM Киев</span>, <span id="sub-rubrics">Рубрики в разделе "Услуги" Киев</span>, <span id="filter-rubrics">Рубрики в разделе "Интим услуги" Киев</span>, <span>Общество Киев</span>, <span>Знакомства Киев</span>, <span>Техника Киев</span>, <span>Компьютеры и Интернет Киев</span>, <span>Хоз. товары, пром- и продтовары Киев</span>, <span>Разное Киев</span>, <span>Оборудование Киев</span>, <span>Недвижимость / Строительство Киев</span>, <span>Авто / Мото / Вело / Водный / Авиа транспорт Киев</span>, <span>Работа Киев</span>, <span>Ваши резюме Киев</span>, <span>Ремонт авто/мото техники, водного транспорта Киев</span>, <span>Страховые услуги Киев</span>, <span>Ремонт бытовой техники Киев</span>, <span>Ремонт компьютеров и мобильных телефонов Киев</span>, <span>Туристические услуги, отдых Киев</span>, <span>Организация праздников и досуга Киев</span>, <span>Строительные услуги Киев</span>, <span>Косметические услуги Киев</span>, <span>Няни / Cиделки Киев</span>, <span>Клининговые услуги Киев</span>, <span>Услуги переводчиков Киев</span>, <span>Охранные услуги Киев</span>, <span>Рекламные, маркетинговые услуги Киев</span>, <span>Швейные услуги Киев</span>, <span>Полиграф-, издательские услуги Киев</span>, <span>Транспорт, экспедитор, таможенные услуги Киев</span>, <span>Ритуальные услуги Киев</span>, <span>Программирование, разработка  web-сайтов Киев</span>, <span>Медицинские услуги Киев</span>, <span>Образование, обучение Киев</span>, <span>Юридические и консалтинговые Киев</span>, <span>Бухгалтерские и аудиторские Киев</span>, <span>Другие услуги Киев</span>, <span>мужчина Киев</span>, <span>женщина Киев</span>, <span style="color: #989898; font-size: 13px">© 2006-2017</span>, <span style="color: #5e5e5e; font-size: 13px;">Доски объявлений GO!</span>, <span style="color: #989898; font-size: 14px">Контакт с нами:</span>, <span style="color: #989898; font-size: 13px">GO! в городах Украины:</span>, <span style="color: #989898; font-size: 13px">Полезная информация:</span>, <span style="color: #989898; font-size: 13px">Наши друзья:</span>, <span style="color: #989898; font-size: 13px">Счётчики и иконки:</span>]
+2017-02-15 18:56:17,619 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:17,619 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:17,619 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540322.html
+2017-02-15 18:56:17,983 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:58<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:17,983 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:17,983 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:17,983 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540415.html
+2017-02-15 18:56:18,316 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:19<br>
+<b>Город:</b> Киев (Соломенский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:18,316 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:18,316 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:18,316 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9530412.html
+2017-02-15 18:56:18,642 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 13.02.2017 22:31<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 174 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:18,642 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:18,642 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:18,642 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540454.html
+2017-02-15 18:56:18,973 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:26<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 29 год(а)<br><b>Вес:</b> 58 кг<br><b>Рост:</b> 177 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:18,973 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:18,974 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:18,974 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540392.html
+2017-02-15 18:56:19,315 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:14<br>
+<b>Город:</b> Киев (Дарницкий)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 26 год(а)<br><b>Вес:</b> 67 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:19,316 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:19,316 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:19,316 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9479473.html
+2017-02-15 18:56:19,641 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 5.02.2017 18:53<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:19,641 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:19,641 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:19,641 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540440.html
+2017-02-15 18:56:20,030 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:24<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:20,030 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:20,030 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:20,030 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540390.html
+2017-02-15 18:56:20,360 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:14<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:20,360 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:20,360 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:20,360 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540385.html
+2017-02-15 18:56:20,709 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:12<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:20,709 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:20,709 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:20,709 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540308.html
+2017-02-15 18:56:21,186 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:55<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:21,186 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:21,186 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:21,187 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540441.html
+2017-02-15 18:56:21,686 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:24<br>
+<b>Город:</b> Киев (Святошинский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:21,687 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:21,687 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:21,687 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9430842.html
+2017-02-15 18:56:22,212 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 28.01.2017 06:36<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:22,213 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:22,213 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:22,213 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540377.html
+2017-02-15 18:56:22,569 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:10<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 166 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:22,569 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:22,570 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:22,570 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540323.html
+2017-02-15 18:56:23,134 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:58<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:23,134 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:23,134 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:23,134 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540320.html
+2017-02-15 18:56:23,483 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:58<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:23,483 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:23,484 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:23,484 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540335.html
+2017-02-15 18:56:23,824 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:02<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:23,824 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:23,825 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:23,825 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540429.html
+2017-02-15 18:56:24,143 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:21<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:24,143 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:24,143 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:24,144 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540412.html
+2017-02-15 18:56:24,458 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:18<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:24,458 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:24,458 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:24,458 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540340.html
+2017-02-15 18:56:24,776 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:02<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:24,776 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:24,776 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:24,776 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540426.html
+2017-02-15 18:56:25,089 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:21<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 180 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:25,090 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:25,090 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:25,090 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540350.html
+2017-02-15 18:56:25,414 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:05<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:25,414 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:25,414 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:25,414 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540364.html
+2017-02-15 18:56:25,595 - bingo.parser - INFO -  error into unicodeerror Raised when HTTP error occurs, but also acts like non-error return
+2017-02-15 18:56:25,595 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:25,595 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:25,596 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540357.html
+2017-02-15 18:56:25,906 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:07<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:25,906 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:25,907 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:25,907 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540410.html
+2017-02-15 18:56:26,270 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:17<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 62 кг<br><b>Рост:</b> 178 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:26,270 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:26,270 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:26,270 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540351.html
+2017-02-15 18:56:26,700 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:05<br>
+<b>Город:</b> Киев (Святошинский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:26,701 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:26,705 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:26,705 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540359.html
+2017-02-15 18:56:27,012 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:07<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 28 год(а)<br><b>Вес:</b> 58 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:27,013 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:27,013 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:27,013 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540399.html
+2017-02-15 18:56:27,422 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:15<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 48 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:27,422 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:27,423 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:27,423 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540337.html
+2017-02-15 18:56:27,787 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:02<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 34 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:27,787 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:27,787 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:27,787 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540384.html
+2017-02-15 18:56:28,128 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:12<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 46 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:28,129 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:28,129 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:28,129 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540386.html
+2017-02-15 18:56:28,443 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:12<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 173 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:28,443 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:28,443 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:28,443 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540373.html
+2017-02-15 18:56:28,782 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:10<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:28,782 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:28,782 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:28,782 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540436.html
+2017-02-15 18:56:29,124 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:23<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:29,124 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:29,124 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:29,124 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540371.html
+2017-02-15 18:56:29,545 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:09<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:29,546 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:29,546 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:29,546 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9508147.html
+2017-02-15 18:56:29,906 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 10.02.2017 05:46<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:29,906 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:29,907 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:29,907 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540316.html
+2017-02-15 18:56:30,253 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:57<br>
+<b>Город:</b> Киев (Голосеевский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:30,253 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:30,253 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:30,253 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540442.html
+2017-02-15 18:56:30,586 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:24<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 70 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:30,586 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:30,587 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:30,587 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540446.html
+2017-02-15 18:56:31,021 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:25<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 29 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:31,021 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:31,021 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:31,021 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540404.html
+2017-02-15 18:56:31,346 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:16<br>
+<b>Город:</b> Киев (Днепровский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:31,347 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:31,347 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:31,347 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540309.html
+2017-02-15 18:56:31,674 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:55<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:31,674 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:31,675 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:31,675 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540413.html
+2017-02-15 18:56:31,976 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:19<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:31,976 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:31,980 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:31,980 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540306.html
+2017-02-15 18:56:32,342 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:55<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:32,343 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:32,343 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:32,343 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540432.html
+2017-02-15 18:56:32,816 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:22<br>
+<b>Город:</b> Киев (Шевченковский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 32 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:32,816 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:32,816 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:32,816 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540394.html
+2017-02-15 18:56:33,283 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:14<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 65 кг<br><b>Рост:</b> 174 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:33,283 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:33,283 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:33,283 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540434.html
+2017-02-15 18:56:33,707 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:23<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:33,708 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:33,708 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:33,708 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9538856.html
+2017-02-15 18:56:34,186 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 13:21<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:34,186 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:34,187 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:34,187 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540395.html
+2017-02-15 18:56:34,899 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:14<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:34,899 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:34,899 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:34,899 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540421.html
+2017-02-15 18:56:35,539 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:20<br>
+<b>Город:</b> Киев (Дарницкий)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 68 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:35,539 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:35,539 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:35,539 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540366.html
+2017-02-15 18:56:35,869 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:08<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 173 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:35,869 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:35,869 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:35,870 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540317.html
+2017-02-15 18:56:36,407 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:57<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:36,407 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:36,407 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:36,407 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540424.html
+2017-02-15 18:56:36,806 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:20<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:36,807 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:36,807 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:36,807 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540425.html
+2017-02-15 18:56:37,159 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:21<br>
+<b>Город:</b> Киев (Днепровский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 65 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:37,159 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:37,163 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:37,163 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540430.html
+2017-02-15 18:56:37,591 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:22<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:37,592 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:37,592 - bingo.parser - INFO -  city is running simferopol
+2017-02-15 18:56:38,176 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:38,176 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539993.html
+2017-02-15 18:56:38,538 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:57<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:38,538 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:38,538 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:38,538 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540144.html
+2017-02-15 18:56:38,907 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:24<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:38,907 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:38,907 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:38,907 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540153.html
+2017-02-15 18:56:39,300 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:27<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:39,301 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:39,301 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:39,301 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540342.html
+2017-02-15 18:56:39,748 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:03<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:39,748 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:39,748 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:39,748 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540090.html
+2017-02-15 18:56:40,074 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:13<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 65 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:40,074 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:40,074 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:40,075 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539806.html
+2017-02-15 18:56:40,435 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:16<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:40,435 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:40,435 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:40,435 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539539.html
+2017-02-15 18:56:40,834 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:24<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 173 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:40,834 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:40,834 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:40,834 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540110.html
+2017-02-15 18:56:41,207 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:17<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:41,208 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:41,208 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:41,208 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9479473.html
+2017-02-15 18:56:41,573 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 5.02.2017 18:53<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:41,574 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:41,574 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:41,574 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539742.html
+2017-02-15 18:56:41,928 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:05<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:41,929 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:41,929 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:41,929 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540103.html
+2017-02-15 18:56:42,334 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:15<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:42,334 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:42,334 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:42,334 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9498559.html
+2017-02-15 18:56:42,829 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 8.02.2017 17:29<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:42,829 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:42,829 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:42,829 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539523.html
+2017-02-15 18:56:43,150 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:21<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:43,150 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:43,150 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:43,150 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9498551.html
+2017-02-15 18:56:43,466 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 8.02.2017 17:28<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:43,466 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:43,466 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:43,466 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539318.html
+2017-02-15 18:56:43,770 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:43<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 46 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:43,771 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:43,771 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:43,771 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539984.html
+2017-02-15 18:56:44,116 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:55<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:44,116 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:44,116 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:44,116 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539399.html
+2017-02-15 18:56:44,418 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:59<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 47 кг<br><b>Рост:</b> 166 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:44,418 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:44,418 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:44,418 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539842.html
+2017-02-15 18:56:44,753 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:25<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:44,753 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:44,753 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:44,753 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539462.html
+2017-02-15 18:56:45,128 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:09<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:45,128 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:45,129 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:45,129 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539354.html
+2017-02-15 18:56:45,428 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:48<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 48 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:45,428 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:45,429 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:45,429 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540141.html
+2017-02-15 18:56:45,758 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:24<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 58 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:45,758 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:45,759 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:45,759 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540123.html
+2017-02-15 18:56:46,129 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:20<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:46,129 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:46,129 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:46,129 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539960.html
+2017-02-15 18:56:46,433 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:50<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:46,433 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:46,433 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:46,433 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540252.html
+2017-02-15 18:56:46,855 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:45<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:46,855 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:46,855 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:46,855 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539426.html
+2017-02-15 18:56:47,528 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:04<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:47,528 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:47,532 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:47,532 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539918.html
+2017-02-15 18:56:48,265 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:43<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:48,265 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:48,265 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:48,265 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540217.html
+2017-02-15 18:56:48,786 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:40<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:48,786 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:48,786 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:48,786 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539907.html
+2017-02-15 18:56:49,146 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:41<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:49,146 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:49,146 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:49,147 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9415037.html
+2017-02-15 18:56:49,591 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 25.01.2017 20:06<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 59 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:49,592 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:49,592 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:49,592 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540268.html
+2017-02-15 18:56:49,919 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:47<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:49,919 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:49,919 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:49,919 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540235.html
+2017-02-15 18:56:50,233 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:42<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 45 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:50,233 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:50,233 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:50,233 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539519.html
+2017-02-15 18:56:50,643 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:21<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:50,643 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:50,644 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:50,644 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539343.html
+2017-02-15 18:56:50,971 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:47<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:50,971 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:50,971 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:50,971 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9395002.html
+2017-02-15 18:56:51,312 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 22.01.2017 14:43<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 59 кг<br><b>Рост:</b> 162 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:51,312 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:51,312 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:51,313 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539535.html
+2017-02-15 18:56:51,641 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:23<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:51,641 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:51,642 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:51,642 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540257.html
+2017-02-15 18:56:52,005 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:46<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:52,005 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:52,005 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:52,005 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539902.html
+2017-02-15 18:56:52,334 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:40<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:52,334 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:52,335 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:52,335 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539933.html
+2017-02-15 18:56:52,672 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:45<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:52,672 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:52,676 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:52,676 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540097.html
+2017-02-15 18:56:53,007 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:14<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 48 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:53,007 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:53,007 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:53,007 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539976.html
+2017-02-15 18:56:53,359 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:53<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:53,359 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:53,359 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:53,359 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540534.html
+2017-02-15 18:56:53,673 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:40<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:53,673 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:53,673 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:53,673 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540238.html
+2017-02-15 18:56:53,996 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:43<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:53,997 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:53,997 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:53,997 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540035.html
+2017-02-15 18:56:54,343 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:05<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 26 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:54,343 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:54,343 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:54,343 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539585.html
+2017-02-15 18:56:54,675 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:36<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:54,676 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:54,676 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:54,676 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539337.html
+2017-02-15 18:56:54,998 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:46<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:54,998 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:54,998 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:54,998 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539996.html
+2017-02-15 18:56:55,319 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:58<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:55,320 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:55,320 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:55,320 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539981.html
+2017-02-15 18:56:55,640 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 16:54<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 45 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:55,640 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:55,640 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:55,640 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9540236.html
+2017-02-15 18:56:56,029 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 17:42<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:56,029 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:56,029 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:56,030 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539496.html
+2017-02-15 18:56:56,335 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:17<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:56,335 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:56,335 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:56,335 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539421.html
+2017-02-15 18:56:56,651 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:03<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:56,651 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:56,651 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:56,651 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539310.html
+2017-02-15 18:56:56,960 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:42<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 18 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:56,961 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:56,961 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:56,961 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539408.html
+2017-02-15 18:56:57,272 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:00<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:57,273 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:57,273 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:57,273 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539511.html
+2017-02-15 18:56:57,601 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 15:20<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 172 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:57,601 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:57,601 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:57,601 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539397.html
+2017-02-15 18:56:57,941 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:59<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 49 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:57,941 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:57,945 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:57,945 - bingo.parser - INFO -  postofconcrete girl http://simferopol.ukrgo.com/post_9539332.html
+2017-02-15 18:56:58,270 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 14:45<br>
+<b>Город:</b> Симферополь <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 174 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:58,270 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:58,270 - bingo.parser - INFO -  city is running vinnica
+2017-02-15 18:56:58,849 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:58,849 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_7115596.html
+2017-02-15 18:56:59,167 - bingo.parser - ERROR -  number problem [<span style="color: #292929; font-size: 13px;">Вход:</span>, <span style="color: #484849; font-size: 15px; font-weight: bold; margin-left: 0px;">Поиск по объявлениям:</span>, <span style="color: #4658e1; font-size: 17px; padding-left: 10px;">Связаться с автором объявления:</span>, <span class="title_text_grey" style="padding-left: 10px;">Ваше имя:</span>, <span class="title_text_grey" style="padding-left: 10px;">Ваш e-mail*:</span>, <span class="title_text_grey" style="padding-left: 10px;">Текст письма*:</span>, <span id="count_symbol_text_mail" style="color: #309c22;">1000</span>, <span class="title_text_grey" style="padding-left: 10px;">Антиспам*:</span>, <span id="main-rubrics">Главные рубрики UkrGo.COM Винница</span>, <span id="sub-rubrics">Рубрики в разделе "Услуги" Винница</span>, <span id="filter-rubrics">Рубрики в разделе "Интим услуги" Винница</span>, <span>Общество Винница</span>, <span>Знакомства Винница</span>, <span>Техника Винница</span>, <span>Компьютеры и Интернет Винница</span>, <span>Хоз. товары, пром- и продтовары Винница</span>, <span>Разное Винница</span>, <span>Оборудование Винница</span>, <span>Недвижимость / Строительство Винница</span>, <span>Авто / Мото / Вело / Водный / Авиа транспорт Винница</span>, <span>Работа Винница</span>, <span>Ваши резюме Винница</span>, <span>Ремонт авто/мото техники, водного транспорта Винница</span>, <span>Страховые услуги Винница</span>, <span>Ремонт бытовой техники Винница</span>, <span>Ремонт компьютеров и мобильных телефонов Винница</span>, <span>Туристические услуги, отдых Винница</span>, <span>Организация праздников и досуга Винница</span>, <span>Строительные услуги Винница</span>, <span>Косметические услуги Винница</span>, <span>Няни / Cиделки Винница</span>, <span>Клининговые услуги Винница</span>, <span>Услуги переводчиков Винница</span>, <span>Охранные услуги Винница</span>, <span>Рекламные, маркетинговые услуги Винница</span>, <span>Швейные услуги Винница</span>, <span>Полиграф-, издательские услуги Винница</span>, <span>Транспорт, экспедитор, таможенные услуги Винница</span>, <span>Ритуальные услуги Винница</span>, <span>Программирование, разработка  web-сайтов Винница</span>, <span>Медицинские услуги Винница</span>, <span>Образование, обучение Винница</span>, <span>Юридические и консалтинговые Винница</span>, <span>Бухгалтерские и аудиторские Винница</span>, <span>Другие услуги Винница</span>, <span>мужчина Винница</span>, <span>женщина Винница</span>, <span style="color: #989898; font-size: 13px">© 2006-2017</span>, <span style="color: #5e5e5e; font-size: 13px;">Доски объявлений GO!</span>, <span style="color: #989898; font-size: 14px">Контакт с нами:</span>, <span style="color: #989898; font-size: 13px">GO! в городах Украины:</span>, <span style="color: #989898; font-size: 13px">Полезная информация:</span>, <span style="color: #989898; font-size: 13px">Наши друзья:</span>, <span style="color: #989898; font-size: 13px">Счётчики и иконки:</span>]
+2017-02-15 18:56:59,168 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:59,168 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:59,168 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9536586.html
+2017-02-15 18:56:59,504 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 02:33<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:59,505 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:59,505 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:59,505 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9533464.html
+2017-02-15 18:56:59,892 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 14.02.2017 15:17<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 56 кг<br><b>Рост:</b> 169 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:56:59,892 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:56:59,893 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:56:59,893 - bingo.parser - INFO -  postofconcrete girl http://zp.ukrgo.com/post_9516769.html
+2017-02-15 18:57:00,268 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 11.02.2017 15:48<br>
+<b>Город:</b> Запорожье <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 166 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:00,269 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:00,269 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:00,269 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9537431.html
+2017-02-15 18:57:00,688 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 07:35<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:00,688 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:00,688 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:00,688 - bingo.parser - INFO -  postofconcrete girl http://summy.ukrgo.com/post_9449797.html
+2017-02-15 18:57:01,078 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 31.01.2017 16:24<br>
+<b>Город:</b> Сумы <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:01,078 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:01,078 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:01,078 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9526011.html
+2017-02-15 18:57:01,489 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 13.02.2017 06:59<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 58 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:01,490 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:01,490 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:01,490 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9530761.html
+2017-02-15 18:57:01,865 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 14.02.2017 04:35<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 171 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:01,865 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:01,865 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:01,865 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9531161.html
+2017-02-15 18:57:02,343 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 14.02.2017 07:16<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:02,343 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:02,343 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:02,343 - bingo.parser - INFO -  postofconcrete girl http://vinnica.ukrgo.com/post_9537412.html
+2017-02-15 18:57:03,081 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 07:31<br>
+<b>Город:</b> Винница <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 18:57:03,081 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 18:57:03,081 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 18:57:03,081 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9479473.html
+2017-02-15 19:12:25,785 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:12:26,443 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:26,443 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540555.html
+2017-02-15 19:12:26,993 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:43<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:26,994 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:26,994 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:26,994 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540582.html
+2017-02-15 19:12:27,455 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 47 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:27,455 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:27,456 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:27,456 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540539.html
+2017-02-15 19:12:27,909 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:40<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:27,909 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:27,909 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:27,909 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540474.html
+2017-02-15 19:12:28,326 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:30<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 26 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:28,326 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:28,326 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:28,326 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540511.html
+2017-02-15 19:12:28,712 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:36<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:28,713 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:28,713 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:28,713 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540487.html
+2017-02-15 19:12:29,165 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:32<br>
+<b>Город:</b> Киев (Днепровский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:29,165 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:29,166 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:29,166 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540580.html
+2017-02-15 19:12:29,553 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 31 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:29,553 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:29,554 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:29,554 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540565.html
+2017-02-15 19:12:30,049 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:44<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:30,049 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:30,049 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:30,049 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540515.html
+2017-02-15 19:12:30,444 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:37<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 61 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:30,444 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:30,445 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:30,445 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540557.html
+2017-02-15 19:12:30,842 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:43<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:30,842 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:30,843 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:30,843 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540552.html
+2017-02-15 19:12:31,263 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:42<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 33 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:31,264 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:31,264 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:31,264 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540578.html
+2017-02-15 19:12:31,735 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 33 год(а)<br><b>Вес:</b> 73 кг<br><b>Рост:</b> 177 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:31,735 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:31,735 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:31,736 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540573.html
+2017-02-15 19:12:32,185 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:47<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:32,185 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:32,185 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:32,185 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540627.html
+2017-02-15 19:12:32,661 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:57<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 33 год(а)<br><b>Вес:</b> 72 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:32,661 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:32,661 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:32,661 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540466.html
+2017-02-15 19:12:33,075 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:29<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:33,075 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:33,075 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:33,075 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540545.html
+2017-02-15 19:12:33,508 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:41<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:33,508 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:33,508 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:33,508 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9499061.html
+2017-02-15 19:12:33,959 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 8.02.2017 19:05<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 160 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:33,960 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:33,960 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:33,960 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540550.html
+2017-02-15 19:12:34,452 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:42<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 173 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:34,452 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:34,452 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:34,452 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540479.html
+2017-02-15 19:12:34,945 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:31<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:34,946 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:34,946 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:34,946 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540584.html
+2017-02-15 19:12:35,343 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 32 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:35,343 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:35,343 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:35,343 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540519.html
+2017-02-15 19:12:35,804 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:37<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:35,804 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:35,808 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:35,808 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540499.html
+2017-02-15 19:12:36,238 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:34<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:36,238 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:36,238 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:36,239 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540429.html
+2017-02-15 19:12:36,693 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:21<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:36,693 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:36,693 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:36,693 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540559.html
+2017-02-15 19:12:37,151 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:43<br>
+<b>Город:</b> Киев (Дарницкий)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 160 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:37,151 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:37,151 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:37,151 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540512.html
+2017-02-15 19:12:37,542 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:37<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 34 год(а)<br><b>Вес:</b> 73 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:37,542 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:37,542 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:37,542 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540491.html
+2017-02-15 19:12:37,940 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:33<br>
+<b>Город:</b> Киев (Дарницкий)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 158 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:37,940 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:37,940 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:37,940 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540467.html
+2017-02-15 19:12:38,352 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:29<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:38,353 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:38,353 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:38,353 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540510.html
+2017-02-15 19:12:38,774 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:36<br>
+<b>Город:</b> Киев (Соломенский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:38,774 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:38,774 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:38,774 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540500.html
+2017-02-15 19:12:39,177 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:34<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 28 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:39,177 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:39,177 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:39,177 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540537.html
+2017-02-15 19:12:39,631 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:40<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 36 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:39,632 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:39,632 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:39,632 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540606.html
+2017-02-15 19:12:40,013 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:53<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:12:40,014 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:12:40,014 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:12:40,014 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540490.html
+2017-02-15 19:14:44,854 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:14:45,524 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:45,525 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540547.html
+2017-02-15 19:14:45,941 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:41<br>
+<b>Город:</b> Киев (Святошинский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 47 кг<br><b>Рост:</b> 160 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:45,941 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:45,941 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:45,941 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540474.html
+2017-02-15 19:14:46,348 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:30<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 26 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:46,349 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:46,349 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:46,349 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540485.html
+2017-02-15 19:14:46,768 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:32<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 175 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:46,768 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:46,768 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:46,769 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9499061.html
+2017-02-15 19:14:47,157 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 8.02.2017 19:05<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 27 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 160 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:47,157 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:47,157 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:47,158 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540573.html
+2017-02-15 19:14:47,546 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:47<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:47,546 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:47,546 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:47,546 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540549.html
+2017-02-15 19:14:47,973 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:41<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:47,973 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:47,973 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:47,973 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540582.html
+2017-02-15 19:14:48,353 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 22 год(а)<br><b>Вес:</b> 47 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:48,353 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:48,353 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:48,354 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540565.html
+2017-02-15 19:14:48,731 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:44<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:48,731 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:48,731 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:48,731 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540531.html
+2017-02-15 19:14:49,114 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:39<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:49,114 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:49,118 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:49,118 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540578.html
+2017-02-15 19:14:49,548 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 33 год(а)<br><b>Вес:</b> 73 кг<br><b>Рост:</b> 177 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:49,548 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:49,548 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:49,548 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540604.html
+2017-02-15 19:14:49,957 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:52<br>
+<b>Город:</b> Киев (Оболонский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 19 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:49,957 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:49,957 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:49,957 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540557.html
+2017-02-15 19:14:50,339 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:43<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 25 год(а)<br><b>Вес:</b> 57 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:50,339 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:50,339 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:50,340 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540466.html
+2017-02-15 19:14:50,713 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:29<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 54 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:50,714 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:50,714 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:50,714 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540544.html
+2017-02-15 19:14:51,095 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:40<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:51,095 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:51,095 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:51,096 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540520.html
+2017-02-15 19:14:51,467 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:38<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 33 год(а)<br><b>Вес:</b> 73 кг<br><b>Рост:</b> 176 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:51,468 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:51,468 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:51,468 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540465.html
+2017-02-15 19:14:51,902 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:28<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 48 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:51,902 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:51,902 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:51,903 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540515.html
+2017-02-15 19:14:52,297 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:37<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 21 год(а)<br><b>Вес:</b> 61 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:52,297 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:52,297 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:52,298 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540510.html
+2017-02-15 19:14:52,676 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:36<br>
+<b>Город:</b> Киев (Соломенский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 30 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:52,676 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:52,676 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:52,676 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540487.html
+2017-02-15 19:14:53,061 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:32<br>
+<b>Город:</b> Киев (Днепровский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 50 кг<br><b>Рост:</b> 167 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:53,061 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:53,061 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:53,061 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540500.html
+2017-02-15 19:14:53,646 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:34<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 28 год(а)<br><b>Вес:</b> 60 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:53,646 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:53,646 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:53,646 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540584.html
+2017-02-15 19:14:54,031 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 32 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:54,032 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:54,032 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:54,032 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540586.html
+2017-02-15 19:14:54,458 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:49<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 168 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:54,458 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:54,458 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:54,458 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540491.html
+2017-02-15 19:14:54,894 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:33<br>
+<b>Город:</b> Киев (Дарницкий)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 24 год(а)<br><b>Вес:</b> 51 кг<br><b>Рост:</b> 158 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:54,894 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:54,894 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:54,894 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540550.html
+2017-02-15 19:14:55,272 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:42<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 173 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:55,272 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:55,272 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:55,272 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540555.html
+2017-02-15 19:14:55,670 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:43<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 20 год(а)<br><b>Вес:</b> 53 кг<br><b>Рост:</b> 165 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:55,670 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:55,670 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:55,670 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540580.html
+2017-02-15 19:14:56,074 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:48<br>
+<b>Город:</b> Киев (Печерский)<br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 31 год(а)<br><b>Вес:</b> 55 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:56,075 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:56,075 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:56,075 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540519.html
+2017-02-15 19:14:56,461 - bingo.parser - ERROR -  age problem <div style="color: #242424; font-size: 12px; margin-top: 5px;">
+<b>Дата подачи объявления:</b> 15.02.2017 18:37<br>
+<b>Город:</b> Киев <br>
+<b>Пол:</b> женщина <br><b>Возраст:</b> 23 год(а)<br><b>Вес:</b> 52 кг<br><b>Рост:</b> 170 см<br> </br></br></br></br></br></br></div>
+2017-02-15 19:14:56,461 - bingo.parser - INFO -  this girl is on fire None
+2017-02-15 19:14:56,461 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:14:56,461 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540467.html
+2017-02-15 19:15:10,920 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:15:11,633 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:15:11,634 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540467.html
+2017-02-15 19:15:12,068 - bingo.parser - INFO -  this girl is on fire [637010011, 'kiev', '15', '15.02.2017 18:29', './pictures/ukrgo_id_15421261.jpg']
+2017-02-15 19:21:19,419 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:21:20,394 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:21:20,394 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540429.html
+2017-02-15 19:21:20,971 - bingo.parser - INFO -  this girl is on fire [678239777, 'kiev', '24', '15.02.2017 18:21', './pictures/ukrgo_id_15421129.jpg']
+2017-02-15 19:24:35,296 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:24:36,025 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:24:36,025 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540601.html
+2017-02-15 19:24:36,411 - bingo.parser - INFO -  this girl is on fire [672496076, 'kiev', '23', '15.02.2017 18:52', './pictures/ukrgo_id_15421516.jpg']
+2017-02-15 19:26:32,113 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:26:32,858 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:26:32,859 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540545.html
+2017-02-15 19:26:33,318 - bingo.parser - INFO -  this girl is on fire [672453897, 'kiev', '23', '15.02.2017 18:41', './pictures/ukrgo_id_15421401.jpg']
+2017-02-15 19:27:35,536 - bingo.parser - INFO -  city is running kiev
+2017-02-15 19:27:36,209 - bingo.parser - INFO - got inside except UnicodeEncodeError 
+2017-02-15 19:27:36,210 - bingo.parser - INFO -  postofconcrete girl http://kiev.ukrgo.com/post_9540479.html
+2017-02-15 19:27:36,676 - bingo.parser - INFO -  this girl is on fire [678239777, 'kiev', '21', '15.02.2017 18:31', './pictures/ukrgo_id_15421256.jpg']
+2017-02-15 19:32:07,301 - bingo.parser - INFO -  first method 
+2017-02-15 21:20:25,847 - bingo.parser - INFO -  first method 

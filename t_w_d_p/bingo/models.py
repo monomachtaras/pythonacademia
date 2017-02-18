@@ -1,4 +1,5 @@
 from django.db import models
+import datetime
 
 
 class City(models.Model):
@@ -64,7 +65,7 @@ class Number(models.Model):
 
 
 class TimeDate(models.Model):
-    time = models.DateTimeField(auto_now=False, auto_now_add=False)
+    time = models.DateTimeField(default=datetime.datetime.now)
     number = models.ForeignKey(Number, on_delete=models.CASCADE)
 
     def __str__(self):

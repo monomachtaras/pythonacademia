@@ -67,7 +67,7 @@ def general(request):
     context = RequestContext(request)
     categories = Category.objects.all()
     context_dict = {'boldmessage': 'I am a bald message', 'categories': categories}
-    return render(request, 'rango/general.html', context_dict, context)
+    return render(request, 'general.html', context_dict, context)
 
 
 def my_account(request):

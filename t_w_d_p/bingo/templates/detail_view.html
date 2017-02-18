@@ -1,11 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
+{% extends 'basebingo.html' %}
 
-  </head>
-<body>
+{% block body %}
+{% load static %}
 
-Taras Vaskiv
-
-  </body>
-</html>
+{{number.number}}
+<br><br><br>
+{% for image in number.images.all %}
+				<div class="span2">
+					{% with '/girls_images/'|add:image.name as image_static %}
+					<img src="{% static image_static %}" alt="" >
+					{% endwith %}
+					count of numbers {{image.number_set.all.count}}<br>{{image.time}}
+				</div>
+{% endfor %}
+<br><br><br>
+{% for t in number.timedate_set.all %}
+				<div class="span2">
+					{{t.time}}
+				</div>
+{% endfor %}
+{% endblock %}
