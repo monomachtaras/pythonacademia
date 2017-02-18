@@ -37,7 +37,7 @@ class Age(models.Model):
 class Images(models.Model):
 
     name = models.CharField(max_length=15)
-    time = models.DateTimeField(auto_now=False, auto_now_add=False,)
+    time = models.DateTimeField(auto_now=False, auto_now_add=False)
 
     def __str__(self):
         return str(self.name)
@@ -50,10 +50,6 @@ class Number(models.Model):
     cities = models.ManyToManyField(City)
     ages = models.ManyToManyField(Age)
     images = models.ManyToManyField(Images)
-
-
-
-
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):
@@ -72,7 +68,7 @@ class TimeDate(models.Model):
     number = models.ForeignKey(Number, on_delete=models.CASCADE)
 
     def __str__(self):
-        return str(self.time)
+        return str(self.time.strftime("%Y-%m-%d %H:%M"))
 
     def __eq__(self, other):
         if isinstance(other, self.__class__):

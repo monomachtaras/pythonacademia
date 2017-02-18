@@ -1,14 +1,99 @@
-<!DOCTYPE html>
-{% load static %}
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-	<link href="{% static 'stylebingo.css' %}" rel="stylesheet"/>
-</head>
+{% extends 'basebingo.html' %}
 
-<body>
+{% block body %}
+{% load static %}
+
+
 <div class="span9">
+
+	<form> {% csrf_token %}
+			<h3>Filters</h3>
+			<div class="control-group">
+			<label class="control-label">Title <sup>*</sup></label>
+			<div class="controls">
+			<select  class="span1" name="cities">
+				<option value="">-</option>
+						<option value="1">1&nbsp;&nbsp;</option>
+						<option value="2">2&nbsp;&nbsp;</option>
+						<option value="3">3&nbsp;&nbsp;</option>
+						<option value="4">4&nbsp;&nbsp;</option>
+						<option value="5">5&nbsp;&nbsp;</option>
+						<option value="6">6&nbsp;&nbsp;</option>
+						<option value="7">7&nbsp;&nbsp;</option>
+				<!--{% if city_list %}-->
+				<!--{% for city in city_list%}-->
+				<!--<option value="2">{{city.name}}&nbsp;&nbsp;</option>-->
+				<!--{% endfor %}-->
+				<!--{% endif %}-->
+			</select>
+			</div>
+			</div>
+			<div class="control-group">
+				<label class="control-label" for="inputFname">First name <sup>*</sup></label>
+				<div class="controls">
+				  <input type="text" id="inputFname" placeholder="First Name">
+				</div>
+			 </div>
+			 <div class="control-group">
+				<label class="control-label" for="inputLname">Last name <sup>*</sup></label>
+				<div class="controls">
+				  <input type="text" id="inputLname" placeholder="Last Name">
+				</div>
+			 </div>
+			<div class="control-group">
+			<label class="control-label" for="inputEmail">Email <sup>*</sup></label>
+			<div class="controls">
+			  <input type="text" placeholder="Email">
+			</div>
+			</div>
+			<div class="control-group">
+			<label class="control-label">Password <sup>*</sup></label>
+			<div class="controls">
+			  <input type="password" placeholder="Password">
+			</div>
+			</div>
+			<div class="control-group">
+			<label class="control-label">Date of Birth <sup>*</sup></label>
+			<div class="controls">
+			  <select class="span1" name="days">
+					<option value="">-</option>
+						<option value="1">1&nbsp;&nbsp;</option>
+						<option value="2">2&nbsp;&nbsp;</option>
+						<option value="3">3&nbsp;&nbsp;</option>
+						<option value="4">4&nbsp;&nbsp;</option>
+						<option value="5">5&nbsp;&nbsp;</option>
+						<option value="6">6&nbsp;&nbsp;</option>
+						<option value="7">7&nbsp;&nbsp;</option>
+				</select>
+				<select class="span1" name="days">
+					<option value="">-</option>
+						<option value="1">1&nbsp;&nbsp;</option>
+						<option value="2">2&nbsp;&nbsp;</option>
+						<option value="3">3&nbsp;&nbsp;</option>
+						<option value="4">4&nbsp;&nbsp;</option>
+						<option value="5">5&nbsp;&nbsp;</option>
+						<option value="6">6&nbsp;&nbsp;</option>
+						<option value="7">7&nbsp;&nbsp;</option>
+				</select>
+				<select class="span1" name="days">
+					<option value="">-</option>
+						<option value="1">1&nbsp;&nbsp;</option>
+						<option value="2">2&nbsp;&nbsp;</option>
+						<option value="3">3&nbsp;&nbsp;</option>
+						<option value="4">4&nbsp;&nbsp;</option>
+						<option value="5">5&nbsp;&nbsp;</option>
+						<option value="6">6&nbsp;&nbsp;</option>
+						<option value="7">7&nbsp;&nbsp;</option>
+				</select>
+			</div>
+			</div>
+			<div class="control-group">
+				<div class="controls">
+				 	<input type="submit" name="submitAccount" value="Register" class="shopBtn exclusive">
+				</div>
+			</div>
+		</form>
+
 		<div class="well well-small">
 			{% if number_list %}
 			{% for number in number_list %}
@@ -19,13 +104,14 @@
 					{% with '/girls_images/'|add:image.name as image_static %}
 					<img src="{% static image_static %}" alt="" >
 					{% endwith %}
+					count of numbers {{image.number_set.all.count}}<br>{{image.time}}
 				</div>
 				{% endfor %}
 
 				<div class="span6">
 					<h5>{{ number.number }} </h5>
 					<p>
-                        {{ number.ages.all }} {{ number.cities.all }}
+                        {{ number.ages.all }} {{ number.cities.all }} {{ number.timedate_set.last }}
 					</p>
 				</div>
 				<div class="span4 alignR">
@@ -42,8 +128,27 @@
 				</div>
 			</div>
 			<hr class="soften">
-
             {% endfor %}
+
+			{% if paginator %} <!--checks if there is more then 50 elements on the page-->
+					<span class="step-links">
+						{% if number_list.has_previous %}
+
+							<a href="?page={{ number_list.previous_page_number }}" class="list_view"
+							   data-prod="{{ number_list.previous_page_number }}"}> Previous </a>
+
+						{% endif %}
+						<span class="current">
+							Page {{ number_list.number }} of {{ number_list.paginator.num_pages }}
+						</span>
+
+						{% if number_list.has_next %}
+							<a href="?page={{ number_list.next_page_number }}" class="list_view"
+							   data-prod="{{ object_list.next_page_number }}"> Next </a>
+						{% endif %}
+
+					</span>
+			{% endif %}
 
 
 			{% else %}
@@ -52,5 +157,6 @@
 
 		</div>
 	</div>
-</body>
-</html>
+
+
+{% endblock %}
